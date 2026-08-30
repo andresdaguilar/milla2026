@@ -1,0 +1,4259 @@
+{
+ "meta": {
+  "titulo": "Plan Milla 6:00",
+  "carrera": "Milla Urbana New Balance — Buenos Aires",
+  "fecha_carrera": "2026-11-21",
+  "lugar": "Av. 9 de Julio (calle, pendiente leve)",
+  "generado": "2026-08-30",
+  "referencias": {
+   "FC máxima real": "198 ppm (test 23/07)",
+   "Umbral": "FC 166-174 · ritmo 6:50/km",
+   "Trote fácil": "7:30-8:00/km · techo FC 160-163",
+   "Piso de velocidad": "8:00-8:15/km (no puede correr más lento)",
+   "400 m máximo": "1:50 (replicado 23/07 y 15/08)",
+   "200 m medido": "46.6-50.5 s (27/08)",
+   "Milla actual": "8:56 (15/08)",
+   "Milla histórica": "7:20 (año pasado)",
+   "Cadencia objetivo": "175-180 spm"
+  },
+  "tests": [
+   {
+    "fecha": "2026-09-12",
+    "nombre": "TEST 1 · 600 m a fondo"
+   },
+   {
+    "fecha": "2026-10-10",
+    "nombre": "TEST 2 · Milla completa"
+   },
+   {
+    "fecha": "2026-11-07",
+    "nombre": "TEST 3 · Milla partida 1200+400"
+   },
+   {
+    "fecha": "2026-11-21",
+    "nombre": "CARRERA"
+   }
+  ]
+ },
+ "semanas": [
+  {
+   "numero": 1,
+   "fase": "1. Reentrada (FC MEDIA 125-138)",
+   "volumen": "~255 min",
+   "rango": "20/07 al 26/07/2026",
+   "dias": [
+    {
+     "fecha": "20/07/2026",
+     "dia": "Lunes",
+     "tipo": "HECHO",
+     "sesion": "40 min trote/caminata — COMPLETADO",
+     "sesion_pm": null,
+     "gym": "Tren superior",
+     "nota_plan": "FC media 128, sin deriva cardíaca en 40 min. La sesión estuvo BIEN",
+     "hecho": "Si",
+     "tiempo": "40:00",
+     "km": 3.5,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-07-20",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "21/07/2026",
+     "dia": "Martes",
+     "tipo": "Trote/caminata",
+     "sesion": "60 min: trote FORZADO LENTO a 8:00-8:30 (NO tu ritmo natural) + caminata. Ratio libre",
+     "sesion_pm": null,
+     "gym": "Piernas (fuerza pesada 4x4-6 + gemelo/sóleo)",
+     "nota_plan": "Cadencia 165-170 pero zancada CORTA. Trotás hasta no poder decir una frase entera; caminás 60-90 seg. Objetivo: FC MEDIA de sesión 125-138. Los picos de 145-148 no importan. No mires el pulso durante la sesión.",
+     "hecho": "SI",
+     "tiempo": "1:00:00",
+     "km": 5.9,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-07-21",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Alternancia trote/caminata: construye tolerancia al impacto sin acumular carga.",
+      "pasos": [
+       "Alternar los bloques de trote y caminata según la fila.",
+       "Cadencia 175-180 en los tramos de trote."
+      ],
+      "ritmos": [
+       "Trote: cómodo, sin buscar ritmo."
+      ],
+      "criterio": "Terminar pudiendo hacer un bloque más.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "22/07/2026",
+     "dia": "Miércoles",
+     "tipo": "Aeróbico de pie",
+     "sesion": "45 min cinta 6º",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "TODO DE PIE, sin asiento. Sin piso de velocidad: sostenés la zona exacta sin parar",
+     "hecho": null,
+     "tiempo": "45:00",
+     "km": 0,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-07-22",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Trabajo aeróbico de bajo impacto, de pie.",
+      "pasos": [
+       "Sesión de bajo impacto según la fila, a intensidad conversacional."
+      ],
+      "ritmos": [],
+      "criterio": "",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "23/07/2026",
+     "dia": "Jueves",
+     "tipo": "TEST",
+     "sesion": "TEST FC MÁX (EN LLANO): entrada en calor por bloques + 5 x 400 m progresivos, cada uno más rápido, el 5º A FONDO con sprint final. Rec: hasta calmar respiración Y bajar de 130 (2-3 min caminando)",
+     "sesion_pm": null,
+     "gym": "Tren superior",
+     "nota_plan": "BANDA EMPAREJADA. No cortar el reloj hasta 30 seg después del 5º. Pedir el GRÁFICO, no solo el número",
+     "hecho": "Sí",
+     "tiempo": "38:51",
+     "km": "4.56",
+     "ritmo": "8:31/km (ver splits reales 5x400 en .md sec.15)",
+     "fc_media": "148",
+     "fc_max": "198",
+     "peso": null,
+     "notas": "Test VÁLIDO. Splits 5x400: 2:11.5/2:05.6/2:07.3/2:06.7/1:50.8 (rep5 a fondo). FC máx 198, curva ascendente válida. Detalle completo en .md sección 15.",
+     "fecha_iso": "2026-07-23",
+     "guia": {
+      "objetivo": "Medición limpia. El número importa, pero la EJECUCIÓN importa más: un test mal pisado no mide nada.",
+      "pasos": [
+       "Entrada en calor 15 min EN BLOQUES CORTOS + 4 rectas.",
+       "AUTOLAP CADA 200 m en el reloj (corrige el fallo del 15/08: sin referencia no sabés que vas mal hasta que ya es tarde).",
+       "Salir al ritmo previsto, NO por sensación.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [],
+      "criterio": "Parciales parejos o negative split. Sin pass/fail por tiempo.",
+      "avisos": [
+       "Nada de gimnasio de piernas el día anterior.",
+       "Zapatillas de siempre, nada nuevo."
+      ]
+     }
+    },
+    {
+     "fecha": "24/07/2026",
+     "dia": "Viernes",
+     "tipo": "Caminata en pendiente",
+     "sesion": "45 min caminata rápida en pendiente (cinta 10-12%), en zona",
+     "sesion_pm": null,
+     "gym": "Piernas (fuerza pesada 4x4-6 + gemelo/sóleo)",
+     "nota_plan": "Podés sumar chaleco con lastre o mochila si el pulso no llega a zona",
+     "hecho": "Sí",
+     "tiempo": "45:15",
+     "km": "3.48",
+     "ritmo": "13:00/km (cinta, orientativo)",
+     "fc_media": "135",
+     "fc_max": "144",
+     "peso": null,
+     "notas": "Cinta 4,5 km/h + 8% (no 10-12% del plan original). FC media 135, dentro de zona. Deriva ascendente: ~130 primer tercio, 138-144 último tercio. Hecha ANTES del gym de piernas de hoy. Ver .md sección 4.",
+     "fecha_iso": "2026-07-24",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Estímulo de fuerza específica sin impacto: pendiente caminando.",
+      "pasos": [
+       "Caminata sostenida en subida, sin trotar.",
+       "Bajada caminando suave, sin frenar con las rodillas."
+      ],
+      "ritmos": [],
+      "criterio": "Terminar sin molestia lumbar.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "25/07/2026",
+     "dia": "Sábado",
+     "tipo": "Trote/caminata",
+     "sesion": "70 min: trote forzado lento 8:00-8:30 + caminata, ratio libre",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Sesión más larga de la semana. Zancada corta, cadencia alta",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-07-25",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Alternancia trote/caminata: construye tolerancia al impacto sin acumular carga.",
+      "pasos": [
+       "Alternar los bloques de trote y caminata según la fila.",
+       "Cadencia 175-180 en los tramos de trote."
+      ],
+      "ritmos": [
+       "Trote: cómodo, sin buscar ritmo."
+      ],
+      "criterio": "Terminar pudiendo hacer un bloque más.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "26/07/2026",
+     "dia": "Domingo",
+     "tipo": "Descanso",
+     "sesion": "Descanso total",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Registrar peso semanal",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-07-26",
+     "guia": {
+      "objetivo": "Descanso total.",
+      "pasos": [
+       "Nada. Ni trote suave ni gimnasio."
+      ],
+      "ritmos": [],
+      "criterio": "",
+      "avisos": [
+       "La ansiedad de este día está anticipada. No probar nada."
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "numero": 2,
+   "fase": "1. Reentrada (FC MEDIA 125-138)",
+   "volumen": "~355 min",
+   "rango": "27/07 al 02/08/2026",
+   "dias": [
+    {
+     "fecha": "27/07/2026",
+     "dia": "Lunes",
+     "tipo": "Trote/caminata",
+     "sesion": "60 min trote/caminata, ratio libre",
+     "sesion_pm": null,
+     "gym": "Tren superior",
+     "nota_plan": "Zonas ya recalculadas con la FC máx real del jueves",
+     "hecho": "Sí",
+     "tiempo": "1:00:02",
+     "km": "6.12",
+     "ritmo": "9:48/km",
+     "fc_media": "141",
+     "fc_max": "157",
+     "peso": null,
+     "notas": "Banda confirmada. Talk test pasado siempre (incluso en picos 148-157). RPE reflexivo 6/10 (\"largo pero fácil\", con margen). Disparó recalibración: trote pasa a objetivo ~135-150, ver .md sección 17.",
+     "fecha_iso": "2026-07-27",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Alternancia trote/caminata: construye tolerancia al impacto sin acumular carga.",
+      "pasos": [
+       "Alternar los bloques de trote y caminata según la fila.",
+       "Cadencia 175-180 en los tramos de trote."
+      ],
+      "ritmos": [
+       "Trote: cómodo, sin buscar ritmo."
+      ],
+      "criterio": "Terminar pudiendo hacer un bloque más.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "28/07/2026",
+     "dia": "Martes",
+     "tipo": "Trote/caminata",
+     "sesion": "70 min trote/caminata, ratio libre",
+     "sesion_pm": null,
+     "gym": "Piernas (fuerza pesada 4x4-6 + gemelo/sóleo)",
+     "nota_plan": null,
+     "hecho": "NO",
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": "Racha sin correr por agenda/clima/viajes, del 28/07 al 09/08 (motivo ya resuelto). Gimnasio (piernas/tren superior) SÍ se sostuvo con normalidad durante toda la racha. Ver .md sección 18.",
+     "fecha_iso": "2026-07-28",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Alternancia trote/caminata: construye tolerancia al impacto sin acumular carga.",
+      "pasos": [
+       "Alternar los bloques de trote y caminata según la fila.",
+       "Cadencia 175-180 en los tramos de trote."
+      ],
+      "ritmos": [
+       "Trote: cómodo, sin buscar ritmo."
+      ],
+      "criterio": "Terminar pudiendo hacer un bloque más.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "29/07/2026",
+     "dia": "Miércoles",
+     "tipo": "Aeróbico de pie",
+     "sesion": "55 min elíptica o escaladora, continuo, en zona",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Alterná entre elíptica y escaladora si te aburre",
+     "hecho": "NO",
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-07-29",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Trabajo aeróbico de bajo impacto, de pie.",
+      "pasos": [
+       "Sesión de bajo impacto según la fila, a intensidad conversacional."
+      ],
+      "ritmos": [],
+      "criterio": "",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "30/07/2026",
+     "dia": "Jueves",
+     "tipo": "Trote/caminata",
+     "sesion": "60 min trote/caminata + 6 rectas",
+     "sesion_pm": null,
+     "gym": "Tren superior",
+     "nota_plan": "Rectas: 80-100 m acelerando al 90%, sin tensión, recuperación completa caminando",
+     "hecho": "Sí",
+     "tiempo": "1:12:43",
+     "km": "7.53",
+     "ritmo": "9:39/km (orientativo, incluye rectas)",
+     "fc_media": "141",
+     "fc_max": "173",
+     "peso": null,
+     "notas": "Bloque trote/caminata (~60min) + 6 rectas al final. Talk test OK todo el tiempo, incluso en picos 145-160. Rectas sin ir a fondo (confirmado), FC ascendente 160-173 normal para el tipo de esfuerzo. Cadencia máx 208 en rectas. RPE 6/10. 2da confirmación de recalibración sección 17.",
+     "fecha_iso": "2026-07-30",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Alternancia trote/caminata: construye tolerancia al impacto sin acumular carga.",
+      "pasos": [
+       "Alternar los bloques de trote y caminata según la fila.",
+       "Cadencia 175-180 en los tramos de trote."
+      ],
+      "ritmos": [
+       "Trote: cómodo, sin buscar ritmo."
+      ],
+      "criterio": "Terminar pudiendo hacer un bloque más.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "31/07/2026",
+     "dia": "Viernes",
+     "tipo": "Caminata en pendiente",
+     "sesion": "45 min caminata en pendiente fuerte, en zona",
+     "sesion_pm": null,
+     "gym": "Piernas (fuerza pesada 4x4-6 + gemelo/sóleo)",
+     "nota_plan": null,
+     "hecho": "NO",
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-07-31",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Estímulo de fuerza específica sin impacto: pendiente caminando.",
+      "pasos": [
+       "Caminata sostenida en subida, sin trotar.",
+       "Bajada caminando suave, sin frenar con las rodillas."
+      ],
+      "ritmos": [],
+      "criterio": "Terminar sin molestia lumbar.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "01/08/2026",
+     "dia": "Sábado",
+     "tipo": "Trote/caminata",
+     "sesion": "80 min trote/caminata, ratio libre",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": null,
+     "hecho": "NO",
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-08-01",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Alternancia trote/caminata: construye tolerancia al impacto sin acumular carga.",
+      "pasos": [
+       "Alternar los bloques de trote y caminata según la fila.",
+       "Cadencia 175-180 en los tramos de trote."
+      ],
+      "ritmos": [
+       "Trote: cómodo, sin buscar ritmo."
+      ],
+      "criterio": "Terminar pudiendo hacer un bloque más.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "02/08/2026",
+     "dia": "Domingo",
+     "tipo": "Descanso",
+     "sesion": "Descanso total",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Registrar peso semanal",
+     "hecho": "SI",
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-08-02",
+     "guia": {
+      "objetivo": "Descanso total.",
+      "pasos": [
+       "Nada. Ni trote suave ni gimnasio."
+      ],
+      "ritmos": [],
+      "criterio": "",
+      "avisos": [
+       "La ansiedad de este día está anticipada. No probar nada."
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "numero": 3,
+   "fase": "1. Reentrada (FC MEDIA 125-138)",
+   "volumen": "~410 min",
+   "rango": "03/08 al 09/08/2026",
+   "dias": [
+    {
+     "fecha": "03/08/2026",
+     "dia": "Lunes",
+     "tipo": "Trote/caminata",
+     "sesion": "65 min trote/caminata + 6 rectas",
+     "sesion_pm": null,
+     "gym": "Tren superior",
+     "nota_plan": "Indicador: los tramos de trote deberían durar más antes de pedir caminata",
+     "hecho": "NO",
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-08-03",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Alternancia trote/caminata: construye tolerancia al impacto sin acumular carga.",
+      "pasos": [
+       "Alternar los bloques de trote y caminata según la fila.",
+       "Cadencia 175-180 en los tramos de trote."
+      ],
+      "ritmos": [
+       "Trote: cómodo, sin buscar ritmo."
+      ],
+      "criterio": "Terminar pudiendo hacer un bloque más.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "04/08/2026",
+     "dia": "Martes",
+     "tipo": "Trote/caminata",
+     "sesion": "75 min trote/caminata, ratio libre",
+     "sesion_pm": null,
+     "gym": "Piernas (fuerza pesada 4x4-6 + gemelo/sóleo)",
+     "nota_plan": null,
+     "hecho": "SI",
+     "tiempo": "01:15:01",
+     "km": "7.98",
+     "ritmo": "09:24:00",
+     "fc_media": 150,
+     "fc_max": 167,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-08-04",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Alternancia trote/caminata: construye tolerancia al impacto sin acumular carga.",
+      "pasos": [
+       "Alternar los bloques de trote y caminata según la fila.",
+       "Cadencia 175-180 en los tramos de trote."
+      ],
+      "ritmos": [
+       "Trote: cómodo, sin buscar ritmo."
+      ],
+      "criterio": "Terminar pudiendo hacer un bloque más.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "05/08/2026",
+     "dia": "Miércoles",
+     "tipo": "Aeróbico de pie",
+     "sesion": "60 min elíptica o escaladora, continuo, en zona",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": null,
+     "hecho": "NO",
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-08-05",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Trabajo aeróbico de bajo impacto, de pie.",
+      "pasos": [
+       "Sesión de bajo impacto según la fila, a intensidad conversacional."
+      ],
+      "ritmos": [],
+      "criterio": "",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "06/08/2026",
+     "dia": "Jueves",
+     "tipo": "Trote/caminata",
+     "sesion": "65 min trote/caminata + 6 rectas",
+     "sesion_pm": null,
+     "gym": "Tren superior",
+     "nota_plan": null,
+     "hecho": "NO",
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-08-06",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Alternancia trote/caminata: construye tolerancia al impacto sin acumular carga.",
+      "pasos": [
+       "Alternar los bloques de trote y caminata según la fila.",
+       "Cadencia 175-180 en los tramos de trote."
+      ],
+      "ritmos": [
+       "Trote: cómodo, sin buscar ritmo."
+      ],
+      "criterio": "Terminar pudiendo hacer un bloque más.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "07/08/2026",
+     "dia": "Viernes",
+     "tipo": "Caminata en pendiente",
+     "sesion": "45 min caminata en pendiente fuerte, en zona",
+     "sesion_pm": null,
+     "gym": "Piernas (fuerza pesada 4x4-6 + gemelo/sóleo)",
+     "nota_plan": null,
+     "hecho": "NO",
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-08-07",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Estímulo de fuerza específica sin impacto: pendiente caminando.",
+      "pasos": [
+       "Caminata sostenida en subida, sin trotar.",
+       "Bajada caminando suave, sin frenar con las rodillas."
+      ],
+      "ritmos": [],
+      "criterio": "Terminar sin molestia lumbar.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "08/08/2026",
+     "dia": "Sábado",
+     "tipo": "Trote/caminata",
+     "sesion": "90 min trote/caminata, ratio libre",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": null,
+     "hecho": "NO",
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-08-08",
+     "guia": {
+      "objetivo": "Fase 1 (histórico). Alternancia trote/caminata: construye tolerancia al impacto sin acumular carga.",
+      "pasos": [
+       "Alternar los bloques de trote y caminata según la fila.",
+       "Cadencia 175-180 en los tramos de trote."
+      ],
+      "ritmos": [
+       "Trote: cómodo, sin buscar ritmo."
+      ],
+      "criterio": "Terminar pudiendo hacer un bloque más.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "09/08/2026",
+     "dia": "Domingo",
+     "tipo": "Suave",
+     "sesion": "35 min muy suave",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Meta de la fase: 10-12 min de trote continuo en zona sin caminar",
+     "hecho": "NO",
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-08-09",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "numero": 4,
+   "fase": "2. Base + primer umbral",
+   "volumen": "~47 km",
+   "rango": "10/08 al 16/08/2026",
+   "dias": [
+    {
+     "fecha": "10/08/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "10 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": "Tren superior",
+     "nota_plan": "Ratio 14'/1' o ya continuo",
+     "hecho": "SI",
+     "tiempo": "01:26:24",
+     "km": "10.29",
+     "ritmo": "08:24:00",
+     "fc_media": 155,
+     "fc_max": 180,
+     "peso": 91,
+     "notas": "14'+1' y 6 de 100m",
+     "fecha_iso": "2026-08-10",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "11/08/2026",
+     "dia": "Martes",
+     "tipo": "UMBRAL",
+     "sesion": "15' cal + 4 x 6' umbral bajo (rec 1' trote) + 10' suave — SESIÓN DEFINIDA POR TIEMPO, no por distancia (~7 km reales a tu ritmo actual, no 11)",
+     "sesion_pm": null,
+     "gym": "Piernas (fuerza pesada 4x4-6 + gemelo/sóleo)",
+     "nota_plan": "El umbral NUNCA a fondo: al terminar tenés que poder hacer 3 series más",
+     "hecho": "Sí",
+     "tiempo": "53:01",
+     "km": "6.38",
+     "ritmo": "8:19/km (total con calentamiento/enfriamiento)",
+     "fc_media": 156,
+     "fc_max": 177,
+     "peso": null,
+     "notas": "Zapatillas de siempre (no las de carbono). 4x6'' reps: 6:47/6:49/7:00/6:44 por km, muy consistente, sin fade. FC por rep: 166/169/167/169 -- confirma la zona provisoria de umbral (166-174, sección 15). RPE 4/10 \"algo duro\". Se sintió bien. Ver .md sección 19.",
+     "fecha_iso": "2026-08-11",
+     "guia": {
+      "objetivo": "Subir el techo de esfuerzo sostenible. NO es una sesión a fondo: al terminar tenés que poder hacer 3 series más.",
+      "pasos": [
+       "Entrada en calor 15 min suave en bloques cortos.",
+       "4 repeticiones de 6 minutos a ritmo umbral, con 1' de trote suave entre cada una.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [
+       "Umbral: 6:50/km (medido 11/08 y 25/08)",
+       "FC objetivo: 166-174"
+      ],
+      "criterio": "El ÚLTIMO rep igual o más rápido que el primero. Si se cae, saliste rápido.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "12/08/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "10 km fácil -- RATIO LIBRE (trote hasta que cueste hablar, caminás, volvés), NO bloques largos tipo 14'/1'. Objetivo FC 135-150.",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": null,
+     "hecho": "Sí",
+     "tiempo": "1:19:11",
+     "km": "10.02",
+     "ritmo": "7:54/km",
+     "fc_media": 155,
+     "fc_max": 168,
+     "peso": null,
+     "notas": "Zapatillas de carbono (primer uso, sesión completa de 10km en vez de prueba corta de 15-20min). 3 bloques continuos de 15/22/22/15 min con solo 3 cortes cortos -- NO fue ratio libre real, por eso FC media volvió a dar 155 (igual que el lunes). Costó el último km. Pendiente: preguntar si fue piernas/pantorrillas (posible calzado) o cardio/fatiga acumulada. Ver .md sección 20.",
+     "fecha_iso": "2026-08-12",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "13/08/2026",
+     "dia": "Jueves",
+     "tipo": "Fácil",
+     "sesion": "9 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": "Tren superior",
+     "nota_plan": null,
+     "hecho": "Sí",
+     "tiempo": "1:33:16",
+     "km": "10.11",
+     "ritmo": "9:14/km",
+     "fc_media": 146,
+     "fc_max": 173,
+     "peso": null,
+     "notas": "Primera ejecucion del esquema corregido (3min trote/1min caminata, 20 ciclos): FC quedo PLANA 144-151 durante 83min, sin deriva -- confirma que el esquema de seccion 20 funciona. 6 rectas progresivas al final, cadencia max 194. RPE 4/10 coherente con el dato objetivo. Atleta reporta sensacion de sobrar margen -- esperado/correcto en dia facil, no se ajusta hoy (2 dias del test).",
+     "fecha_iso": "2026-08-13",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "14/08/2026",
+     "dia": "Viernes",
+     "tipo": "Fácil",
+     "sesion": "6 km muy suave",
+     "sesion_pm": null,
+     "gym": "Piernas (fuerza pesada 4x4-6 + gemelo/sóleo)",
+     "nota_plan": null,
+     "hecho": "Sí",
+     "tiempo": "51:46",
+     "km": 6,
+     "ritmo": "8:38/km",
+     "fc_media": 146,
+     "fc_max": 170,
+     "peso": null,
+     "notas": "Esquema run/walk (~3min trote/1min caminata, confirmado por intervalos auto-detectados de Garmin) coherente con el metodo validado el jueves. FC media 146 dentro de zona objetivo (135-150). Entre el min 44:06 y 45:21 hubo una aceleracion DELIBERADA (confirmado por el atleta, \"probando piernas\") de ~220m a ritmo 5:23-5:47/km, FC hasta 170 -- pico mas alto en un dia facil hasta ahora, y llamativo porque el jueves la recta MAS RAPIDA (3:53/km) solo llego a FC173: hoy con ritmo ~90seg/km mas lento se llego casi al mismo pico, señal de fatiga acumulada. Garmin marco la sesion como carga alta / no productiva -- coherente con 4:38 en zona 4 de FC (158+), producto de esa aceleracion no planificada en un dia que debia ser de pura recuperacion pre-test. Gimnasio de piernas (fuerza pesada) programado para hoy quedo pendiente para mas tarde -- RECOMENDACION: saltearlo hoy, la vispera del test no es momento para carga pesada de piernas. Ver .md seccion 26.",
+     "fecha_iso": "2026-08-14",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    },
+    {
+     "fecha": "15/08/2026",
+     "dia": "Sábado",
+     "tipo": "TEST",
+     "sesion": "TEST DE MILLA: 15' cal + 4 rectas + 1609 m a fondo + 5 km suave",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "SALIR A 2:15 EL PRIMER 400. Ritmo parejo. Registrar los 4 parciales y la FC máx",
+     "hecho": "Sí",
+     "tiempo": "8:56",
+     "km": 1.609,
+     "ritmo": "5:33/km (promedio, dato oficial del reloj)",
+     "fc_media": 175,
+     "fc_max": 186,
+     "peso": null,
+     "notas": "MILLA: 8:54 (534.3s) en calle. Splits (dato del reloj, autolap 400m+9m): 400-1: 1:50.3 a 4:36/km -- 400-2: 2:14 a 5:37/km -- 400-3: 2:21 a 5:53/km -- 400-4: 2:26 a 6:06/km -- 9m finales: 3s. Fade claro y progresivo (4:36 -> 5:37 -> 5:53 -> 6:06), causado por salida MUY por encima de lo indicado (2:15 el primer 400 = 5:37/km; salio a 1:50.3 = 4:36/km, ~24seg mas rapido de lo pedido). Atleta reporta sin referencia de ritmo en los primeros 200m y casi fundirse -- coincide exactamente con el dato. FALLO DE PROTOCOLO DEL COACH (no del atleta): la instruccion de 'no mirar ritmo instantaneo, solo el lap' dejo al atleta sin ningun feedback hasta que el primer 400 ya estaba arruinado -- hace falta una referencia de arranque (conteo, punto de referencia en la calle, etc) para el proximo test de calidad. SEGUNDO FALLO: la entrada en calor de 15' trote suave continuo ignoro el hallazgo de la seccion 20 (no tiene aun 'modo trote suave' sostenido mas alla de ~3'); el atleta reporta cansancio ya en el calentamiento por correr continuo mas de 3' -- pudo sumar fatiga extra antes de arrancar la milla. Con fade tan pronunciado, 8:54 probablemente SUBESTIMA la capacidad real actual (un ritmo mas parejo, sin este arranque quemado y sin el calentamiento continuo, probablemente hubiera dado un total mejor) -- no se lee como techo. PENDIENTE: FC (max y por rep, web de Garmin caida), RPE reflexionado (no el primer click), confirmar si se hizo el enfriamiento de 5km. Recalibracion del pronostico de seccion 8 EN ESPERA de estos datos. Ver .md seccion 27. FC MAX POR TRAMO (dato del reloj): 400-1=162, 400-2=175, 400-3=178, 400-4=180, 9m final=180. Patron notable: la FC sigue subiendo tramo a tramo (162->175->178->180->180) AUNQUE el ritmo se hace mas lento (4:36->5:37->5:53->6:06) -- confirma que el fade fue por fatiga real/costo anaerobico acumulado del arranque quemado, no por bajar el esfuerzo voluntariamente. El corredor no aflojo mentalmente, el motor llego al limite. Maximo del dia (180) = 91% de la FC max real (198) -- no toco el techo verdadero, coherente con que fue un esfuerzo de ~9min y no un sprint corto como el test del 23/07. Zonas: 400-2 (175) ya esta por encima del techo de umbral (174) y entrando en zona VO2max estimada (188-194); 400-3 y 400-4 (178-180) siguen ahi. Pendiente aun: RPE reflexionado y confirmar si se hizo el enfriamiento de 5km. Enfriamiento: NO se hicieron los 5km planeados, solo 3min (empezo a llover) -- motivo externo, no decision de saltear el protocolo. Aun pendiente: RPE reflexionado. CORRECCION (JSON completo recibido 16/08): el dato que el atleta paso como *FC maxima* por tramo (162/175/178/180/180) en realidad coincide con la FC MEDIA de cada tramo en el archivo del reloj. La FC MAX real por tramo es 172/177/180/186/180 -- pico real del dia: 186 (93.9% de la FC max verdadera, 198), alcanzado en el 400 #4, el mas lento de los cuatro (6:06/km). Esto es evidencia mas fuerte todavia (no solo hipotesis) de que el fade fue 100% fisiologico: el pico de FC del dia ocurrio exactamente en el tramo mas lento, no en el mas rapido -- el corazon curro al maximo mientras las piernas ya no podian sostener el ritmo. Zona 5 de FC (178+) se sostuvo 4:05 de los ~8:56 totales de la milla -- casi la mitad de la carrera en zona maxima. Tiempo total oficial de la milla (INTERVAL_ACTIVE, 1609m): 535.7s = 8:56, ritmo medio oficial 5:33/km (corrige el 8:54 estimado a mano). FC media de la milla: 175. Aun pendiente: RPE reflexionado. RPE reflexionado: 9/10. Coherente con el dato objetivo (FC max real 186 = 93.9% del techo verdadero, 4:05 de ~8:56 en zona 5) -- esfuerzo genuino y casi maximo, no una sub-performance por falta de compromiso. TEST CERRADO. Ver .md seccion 27 (final) y seccion 8 (pronostico recalibrado).",
+     "fecha_iso": "2026-08-15",
+     "guia": {
+      "objetivo": "Medición limpia. El número importa, pero la EJECUCIÓN importa más: un test mal pisado no mide nada.",
+      "pasos": [
+       "Entrada en calor 15 min EN BLOQUES CORTOS + 4 rectas.",
+       "AUTOLAP CADA 200 m en el reloj (corrige el fallo del 15/08: sin referencia no sabés que vas mal hasta que ya es tarde).",
+       "Salir al ritmo previsto, NO por sensación.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [],
+      "criterio": "Parciales parejos o negative split. Sin pass/fail por tiempo.",
+      "avisos": [
+       "Nada de gimnasio de piernas el día anterior.",
+       "Zapatillas de siempre, nada nuevo."
+      ]
+     }
+    },
+    {
+     "fecha": "16/08/2026",
+     "dia": "Domingo",
+     "tipo": "Fácil",
+     "sesion": "12 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Registrar peso semanal",
+     "hecho": "Sí",
+     "tiempo": "1:39:37",
+     "km": 12,
+     "ritmo": "8:18/km",
+     "fc_media": 146,
+     "fc_max": 162,
+     "peso": 90.5,
+     "notas": "CONFIRMADO (leido directo del reloj, reemplaza el dato provisorio de memoria): 12.00km en 1:39:37. Tiempo corriendo 1:19:06, caminando 20:25, inactivo 0:09 -- coherente con ~25 ciclos de 3min trote/1min caminata reportados. Ritmo medio 8:18/km. FC media 146 -- DENTRO del objetivo de trote facil (135-150), confirma que la sesion se ejecuto bien. FC max 162 (un poco mas alto de lo que el atleta recordaba \"por debajo de 160\", pero un pico puntual dentro de lo normal para este tipo de sesion, no llama la atencion). TE aerobico 3.4 / anaerobico 0.0 -- coherente con sesion aerobica pura. Cadencia media 154 spm, oscilacion vertical 6.5cm. Carga (training load) 100. Sesion validada, sin problemas.",
+     "fecha_iso": "2026-08-16",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    }
+   ]
+  },
+  {
+   "numero": 5,
+   "fase": "2. Base + primer umbral",
+   "volumen": "~45 km",
+   "rango": "17/08 al 23/08/2026",
+   "dias": [
+    {
+     "fecha": "17/08/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": "Tren superior",
+     "nota_plan": "Semana de absorción: la adaptación ocurre acá, no en la sesión dura",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-08-17",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "18/08/2026",
+     "dia": "Martes",
+     "tipo": "Umbral suave",
+     "sesion": "3 x 8' umbral bajo (rec 1') — ~3.6 km reales (ritmo umbral 6:50/km medido; definida por tiempo/reps, no distancia)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Primer umbral con zonas ya calibradas sobre tu FC máx real",
+     "hecho": "Sí",
+     "tiempo": "55:13",
+     "km": 6.73,
+     "ritmo": "8:13/km (8:02/km en movimiento)",
+     "fc_media": 152,
+     "fc_max": 174,
+     "peso": null,
+     "notas": "Estructura real (JSON completo): entrada en calor 3 ciclos 3:30 trote/1:00 caminata (FC 128->143) + 5 progresivos cortos (~80m, 5:19-5:49/km) + BLOQUE PRINCIPAL 3x8:00 a ritmo umbral: 6:57/6:51/6:50 por km, FC media 160/162/167 (max 168/173/174), recuperaciones 40-60s + vuelta a la calma 10:00 a 9:49/km FC 142. Garmin: TE aerobico 3.5/anaerobico 0.0, etiqueta TEMPO. Comparado con la linea de base de umbral (11/08: 6:44-7:00/km a FC 166-169), hoy ritmos casi identicos (6:50-6:57/km) a FC mas baja (160-167) -- 5-9 lpm menos para el mismo trabajo externo. HIPOTESIS no confirmada (podria ser mejora de economia real o clima mas fresco, 18.5C vs el dia del test): se confirma con mas sesiones de umbral. Ver .md seccion 29 y 22 (metrica de economia).",
+     "fecha_iso": "2026-08-18",
+     "guia": {
+      "objetivo": "Umbral de MANTENIMIENTO en semana de absorción. No se busca ritmo, se mantiene el estímulo.",
+      "pasos": [
+       "Entrada en calor 15 min suave en bloques cortos.",
+       "3 repeticiones de 8 minutos a ritmo umbral, con 1' de trote suave entre cada una.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [
+       "~6:55/km, algo más suave que el umbral pleno",
+       "FC 160-168"
+      ],
+      "criterio": "El ÚLTIMO rep igual o más rápido que el primero. Si se cae, saliste rápido.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "19/08/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": null,
+     "hecho": "Sí",
+     "tiempo": "1:08:07",
+     "km": 8,
+     "ritmo": "8:31/km (8:24/km en movimiento)",
+     "fc_media": 145,
+     "fc_max": 159,
+     "peso": null,
+     "notas": "Esquema run/walk (25 vueltas auto-detectadas, tramos RUN de 1:45 a 7:22 alternados con WALK de ~1min). FC media 145, dentro del objetivo 135-150 pero la mayor parte de la sesion (53:16 de 68:07) transcurrio en zona3 de FC (70-80% de FCmax, 139-158 lpm) -- no es un esfuerzo trivial, es moderado por definicion de zona. HALLAZGO: los tramos RUN mas largos de hoy (7:22, 6:30, 5:36, 4:48 continuos) mantuvieron la FC ESTABLE en 146-151 (max puntual 154-159), sin la deriva ascendente sostenida documentada el 10/08 y 12/08 (seccion 20, donde el trote continuo subia a 155-163 en 1-3min). Es un dato a favor de mayor tolerancia a trote continuo que hace 3 semanas -- HIPOTESIS, se confirma con mas sesiones antes de cambiar la estructura de dias faciles. Ver .md seccion 34.",
+     "fecha_iso": "2026-08-19",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "20/08/2026",
+     "dia": "Jueves",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": null,
+     "hecho": "Sí",
+     "tiempo": "1:05:04",
+     "km": 8.01,
+     "ritmo": "8:07/km (8:00/km en movimiento)",
+     "fc_media": 148,
+     "fc_max": 160,
+     "peso": null,
+     "notas": "Estructura: 25 vueltas RUN/WALK auto-detectadas (mismo patron que 19/08). Bloques RUN mas largos: 7:50 (1030m, FC media 153), 7:45 (1015m, FC 153), 6:15 (797m, FC 148), 5:41 (751m, FC 152) -- todos MAS LARGOS que el maximo del 19/08 (7:22) y con FC estable (spread media-max de solo 4-6 lpm), sin deriva ascendente. Segunda confirmacion consecutiva de la hipotesis seccion 34 (tolerancia a trote continuo mejorando), ahora bajo clima mas caluroso (26.1C media, pico 31C) -- condicion que normalmente ELEVA la FC para el mismo ritmo, lo que hace el dato mas fuerte, no mas debil. Comparado con 19/08 (FC media 145, ritmo en movimiento 8:24/km): hoy FC media 148 (+3 lpm) pero ritmo en movimiento 8:00/km (24 seg/km MAS RAPIDO) -- mismo tipo de sesion (facil, prescripcion identica '8km facil'), mejor economia con calor de por medio. Zonas FC: zona3 (139-158) 75% de la sesion (48:58 de 65:04), zona4 (158-178) 2:26 (mas que el 19/08, coherente con el calor y con dos tramos de subida). Garmin: TE aerobico 3.3, etiqueta IMPROVING_AEROBIC_BASE. Ver .md seccion 36.",
+     "fecha_iso": "2026-08-20",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "21/08/2026",
+     "dia": "Viernes",
+     "tipo": "Descanso",
+     "sesion": "Descanso",
+     "sesion_pm": null,
+     "gym": "Piernas (fuerza pesada 4x4-6 + gemelo/sóleo)",
+     "nota_plan": null,
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-08-21",
+     "guia": {
+      "objetivo": "Descanso total.",
+      "pasos": [
+       "Nada. Ni trote suave ni gimnasio."
+      ],
+      "ritmos": [],
+      "criterio": "",
+      "avisos": [
+       "La ansiedad de este día está anticipada. No probar nada."
+      ]
+     }
+    },
+    {
+     "fecha": "22/08/2026",
+     "dia": "Sábado",
+     "tipo": "Fácil",
+     "sesion": "9 km fácil + 8 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": null,
+     "hecho": "Sí",
+     "tiempo": "1:18:09",
+     "km": 9.76,
+     "ritmo": "8:00/km (7:53/km en movimiento)",
+     "fc_media": 151,
+     "fc_max": 173,
+     "peso": null,
+     "notas": "Estructura: rodaje continuo largo con walk-breaks cortos (cruces/hidratacion), NO el patron de 25 vueltas cortas de sesiones previas. Bloques RUN mas largos que cualquier sesion anterior: 7:39 (1061m) y 9:11 (1227m, el mas largo registrado) -- tercera confirmacion consecutiva de la hipotesis seccion 34/36, ahora en un rango de duracion muy superior. FC ponderada del rodaje facil (72:10, antes de las rectas) ~150 -- justo en el techo del objetivo 135-150, EN RANGO. Matiz: los dos bloques mas largos (7:31 y 9:04 reales) promediaron FC 157-159 (borde de zona4), mientras el resto del rodaje promedio 134-155 -- la deriva aparece cuando el bloque pasa los 7min seguidos, no en toda la sesion. RECTAS: prescriptas 8, atleta reporta que hizo 5 por error de calculo (confirmado en Garmin: 5 repeticiones de ~18-23s a ritmo 3:32-4:13/km, recuperacion caminada ~60s entre cada una, casi al 90% de esfuerzo). FC ponderada de rectas+recuperacion ~159, pico 173 -- normal para ese esfuerzo, no se promedia con el rodaje facil. Progresion de ritmo entre rectas: 3:58 / 4:13 / 3:45 / 3:46 / 3:32 (mejorando en las ultimas 3), cadencia 180->193, FC 152->162. FC media de TODA la sesion (151) y 22:08 en zona4 se explican por la combinacion rodaje+rectas, no por el rodaje facil en si. TE aerobico 3.5, etiqueta AEROBIC_BASE. Clima 27C bajando a 19-20C. Ver .md seccion 38.",
+     "fecha_iso": "2026-08-22",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 8 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "23/08/2026",
+     "dia": "Domingo",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Zonas ya recalculadas con la FC máx real (sección 17, 27/07) — nota vieja sin actualizar, corregido 24/08",
+     "hecho": "Sí",
+     "tiempo": "1:03:31",
+     "km": 8.09,
+     "ritmo": "7:51/km",
+     "fc_media": 151,
+     "fc_max": 166,
+     "peso": null,
+     "notas": "8.09km en 1:03:31 (7:51/km). FC media sesión 151 coincide con el resumen Garmin. Corregido 24/08: los 5 cortes de caminata breves NO fueron semáforos/cruces (interpretación incorrecta del coach, retirada) — en los 5 casos la FC bajó a ~124-135 justo antes de retomar el trote, y cada tramo corrido tocó pico de FC 160-166 antes del corte. Coincide exactamente con la regla de la sección 20 (cortar al pasar ~160, retomar recién en 130-135): el atleta se autogobernó por FC, no por semáforo. Extendió cada tramo corrido mucho más allá de los 2-3' del esquema de ciclos (hasta 18:54 seguidos), pero mantuvo el criterio de corte/recuperación por pulso. Ver sección 40 (corregida) y 41 del .md.",
+     "fecha_iso": "2026-08-23",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    }
+   ]
+  },
+  {
+   "numero": 6,
+   "fase": "B1. RECONVERSION + VELOCIDAD (PLAN HIBRIDO, 24/08 — ver .md seccion 49)",
+   "volumen": "~54 km",
+   "rango": "24/08 al 30/08/2026",
+   "dias": [
+    {
+     "fecha": "24/08/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "10 km fácil (HECHO)",
+     "sesion_pm": null,
+     "gym": "Tren superior",
+     "nota_plan": "HECHO. 10.02 km, FC media 154. Bloques continuos record de 22:52 y 25:07.",
+     "hecho": "Sí (parcial, 10/12 km por falta de tiempo)",
+     "tiempo": "1:18:18",
+     "km": 10.02,
+     "ritmo": "7:49/km",
+     "fc_media": 154,
+     "fc_max": 165,
+     "peso": null,
+     "notas": "Resultado: 10.02 km en 1:18:18 (faltó tiempo para los 12 km previstos, no fue por FC ni esfuerzo). DOS bloques continuos nuevos récord: 22:52 (3.04 km, FC media 158) y 25:07 (3.29 km, FC media 155, máx 158) — supera ampliamente los 18:54 del 23/08. FC se mantuvo dentro del techo 160-163 de la sección 41 en todo momento salvo picos puntuales a 165. Ver sección 44 del .md.",
+     "fecha_iso": "2026-08-24",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "25/08/2026",
+     "dia": "Martes",
+     "tipo": "UMBRAL",
+     "sesion": "15' cal + 5 x 6' a ritmo umbral 6:50/km (rec 1' trote) + 10' suave — ~7.6 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": "PIERNAS LIGERO — POTENCIA (modalidad NUEVA: hoy es PRUEBA DE 10 MINUTOS, no sesion completa). Objetivo: mover peso moderado RAPIDO (reclutamiento nervioso), NO hipertrofia ni fuerza maxima. A) 3 x 5 saltos a cajon de 30-40 cm — SE SUBE SALTANDO, SE BAJA CAMINANDO (nunca saltar hacia abajo: ahi esta el impacto que lastima, con 90 kg no vale la pena). Descanso 1-2 min entre series. B) 3 x 5 sentadillas con 60 kg (60% de tu 100 kg): bajar controlado, SUBIR EXPLOSIVO. Si la barra se pone lenta, la serie termino aunque falten reps. Descanso 2-3 min. NO ir al fallo. Si salis sintiendo que hiciste poco, esta bien hecho. Carga acumulada: 15 saltos x 90 kg peso corporal + 15 reps x 60 kg. El trabajo pesado de piernas sigue siendo el VIERNES, sin cambios. Manana se decide si entra al plan segun como respondan rodillas/tobillos/aquiles (regla seccion 12 del .md).",
+     "nota_plan": "Se elimina el DOBLE umbral: una sola sesion de calidad por dia. FC objetivo 166-174. Si el ultimo rep sale mas lento que el primero, saliste rapido.",
+     "hecho": "Sí (completa: 5x6' hechos)",
+     "tiempo": "55:01",
+     "km": 7.21,
+     "ritmo": "7:38/km",
+     "fc_media": 154,
+     "fc_max": 171,
+     "peso": null,
+     "notas": "SESION CLAVE. Los 5 reps: 6:52 / 6:46 / 6:53 / 6:47 / 6:33 por km (promedio 6:46 vs 6:50 prescripto). FC por rep: 153 / 158 / 160 / 158 / 164. EL ULTIMO FUE EL MAS RAPIDO — criterio de la fila cumplido, no salio rapido. ECONOMIA: el 11/08 corria 6:44-7:00/km a FC 166-169; hoy el MISMO ritmo a FC 153-164. El rep 1 (en subida, +3.6 m) fue 6:52/km a FC 153 = 13-16 lpm menos que la linea de base a ritmo comparable. Tercer punto de la serie de la seccion 22. ATENCION: reps 4 y 5 tuvieron bajada neta (-11.5 y -8.8 m) — parte de la aceleracion final es terreno, no solo forma. Calentamiento 10 min en vez de 15. Ver seccion 50 del .md. RPE reflexionado: 6/10.",
+     "fecha_iso": "2026-08-25",
+     "guia": {
+      "objetivo": "Subir el techo de esfuerzo sostenible. NO es una sesión a fondo: al terminar tenés que poder hacer 3 series más.",
+      "pasos": [
+       "Entrada en calor 15 min suave en bloques cortos.",
+       "5 repeticiones de 6 minutos a ritmo umbral, con 1' de trote suave entre cada una.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [
+       "Umbral: 6:50/km (medido 11/08 y 25/08)",
+       "FC objetivo: 166-174"
+      ],
+      "criterio": "El ÚLTIMO rep igual o más rápido que el primero. Si se cae, saliste rápido.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "26/08/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "7 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": "No (lluvia todo el día)",
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": "NO SE CORRIO — lluvia todo el dia (causa externa). Molestia en gluteo IZQUIERDO reportada este dia. Resuelta el 27/08 (no se volvio a sentir). Aparecio ~24 h despues de la primera pliometria (25/08) — timing clasico de agujetas por modalidad nueva. Hipotesis, no diagnostico. Ver seccion 52 del .md.",
+     "fecha_iso": "2026-08-26",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "27/08/2026",
+     "dia": "Jueves",
+     "tipo": "VELOCIDAD",
+     "sesion": "15' cal en bloques cortos + 8 x 200 m a 50-52\" (rec 2' caminando, COMPLETA) + 10' suave — ~5.6 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "PRIMERA sesion de velocidad estructurada de la temporada. 50-52\" en 200 equivale a ritmo de milla 6:42-6:58 — es el ritmo objetivo real, en dosis corta. Recuperacion COMPLETA: esto no es una sesion de resistencia. Criterio de exito: la ultima igual o mas rapida que la primera.",
+     "hecho": "Sí (8x200 completos; recuperación 1' en vez de 2')",
+     "tiempo": "39:42",
+     "km": 4.84,
+     "ritmo": "8:13/km",
+     "fc_media": 148,
+     "fc_max": 180,
+     "peso": null,
+     "notas": "PRIMERA SESION DE VELOCIDAD DE LA TEMPORADA — SALIO MUY BIEN. Los 8x200: 54.4 / 46.6 / 48.9 / 49.7 / 48.8 / 50.5 / 48.6 / 49.4 seg. Promedio 49.6\" (objetivo era 50-52\", o sea fue MAS RAPIDO de lo pedido). La ultima 5 seg mas rapida que la primera: criterio cumplido. EQUIVALENCIA A MILLA: 6 de las 8 a ritmo de milla 6:46 o mejor; 4 de las 8 a 6:37 o mejor; la mas rapida (rep 2) equivale a milla 6:14. CONFIRMA la premisa del plan: el ritmo de 6:30 en dosis corta ES ejecutable hoy. DESVIACION: recuperacion de 1 minuto en vez de los 2 prescriptos — FC en las pausas se mantuvo en 151-167, nunca bajo a 130s. Los ritmos son mas meritorios asi, pero la sesion fue mas dura de lo disenado. CADENCIA 174-180 spm en las reps: primera vez en el rango objetivo (seccion 4). Primer estimulo anaerobico real: TE anaerobico 3.2 (antes 0.0-1.5), 49 seg en zona 5. Ver seccion 51 del .md. RPE reflexionado: 6/10 — CON LA MITAD DE LA RECUPERACION. Queda margen.",
+     "fecha_iso": "2026-08-27",
+     "guia": {
+      "objetivo": "Velocidad pura. Correr al ritmo objetivo real en dosis corta, con recuperación COMPLETA.",
+      "pasos": [
+       "Entrada en calor 15 min EN BLOQUES CORTOS (trote 3-4 min, caminás un poco, retomás).",
+       "8 × 200 m al ritmo indicado.",
+       "Recuperación COMPLETA entre reps: esperá a estar recuperado de verdad.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [
+       "200 m → 48-52 s",
+       "300 m → 1:13-1:18",
+       "400 m → 1:37-1:48"
+      ],
+      "criterio": "La ÚLTIMA igual o más rápida que la primera. Si la última sale más lenta, saliste demasiado fuerte.",
+      "avisos": [
+       "NO es una sesión de resistencia ni de acumular fatiga. Si terminás sintiendo que podías hacer 3 más, está bien hecha.",
+       "RESPETAR la recuperación completa. Con recuperación corta esto deja de entrenar velocidad y pasa a entrenar tolerancia al lactato, que es otro estímulo y tiene su lugar más adelante (20/10)."
+      ]
+     }
+    },
+    {
+     "fecha": "28/08/2026",
+     "dia": "Viernes",
+     "tipo": "Fácil",
+     "sesion": "4 km muy suave",
+     "sesion_pm": null,
+     "gym": "Piernas PESADO (fuerza 4x4-6 + gemelo/soleo)",
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": "Sí",
+     "tiempo": "31:24",
+     "km": 4.01,
+     "ritmo": "7:50/km",
+     "fc_media": 149,
+     "fc_max": 161,
+     "peso": null,
+     "notas": "Ejecutada EXACTA (4.01 km vs 4 prescriptos) y genuinamente suave: TE aerobico 2.4, Garmin la etiqueto RECOVERY, solo 3:20 en zona 4, FC max 161 (dentro del techo 160-163). Es el dia facil mejor ejecutado del bloque. Dos bloques continuos: 15:13 (2007 m, FC 151) y 14:15 (1843 m, FC 150), con una pausa de 1:55 entre medio — patron seccion 41. CONDICIONES DURAS: 31 grados al arrancar, 26.8 de promedio (la sesion mas calurosa del bloque) y +32 m de desnivel NETO en subida. El bloque 1 fue 7:35/km a FC 151 subiendo 38 metros a 31 grados. Ver seccion 53 del .md. GYM PIERNAS PESADO: hecho, sin novedad. El gluteo NO reaparecio con la sentadilla pesada — dato clave para la seccion 52.3.",
+     "fecha_iso": "2026-08-28",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    },
+    {
+     "fecha": "29/08/2026",
+     "dia": "Sábado",
+     "tipo": "TIRADA LARGA",
+     "sesion": "12 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-08-29",
+     "guia": {
+      "objetivo": "La sesión aeróbica más importante de la semana. Construye la base que sostiene las sesiones de calidad.",
+      "pasos": [
+       "Continuo, a ritmo cómodo.",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo de referencia 160-163 (límite, no objetivo). Gobierna el talk test."
+      ],
+      "criterio": "Poder decir una frase entera en voz alta durante toda la sesión.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "30/08/2026",
+     "dia": "Domingo",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-08-30",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "numero": 7,
+   "fase": "B1. RECONVERSION + VELOCIDAD",
+   "volumen": "~54 km",
+   "rango": "31/08 al 06/09/2026",
+   "dias": [
+    {
+     "fecha": "31/08/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-08-31",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "01/09/2026",
+     "dia": "Martes",
+     "tipo": "UMBRAL",
+     "sesion": "15' cal + 4 x 8' a 6:50/km (rec 1' trote) + 10' suave — ~7.9 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": "PIERNAS LIGERO — POTENCIA. Mover peso moderado RAPIDO, no hipertrofia ni fuerza maxima. A) 3 x 5 saltos a cajon 30-40 cm (subir saltando, BAJAR CAMINANDO). Descanso 1-2 min. B) 3 x 5 sentadillas al 60% (~60 kg): bajar controlado, SUBIR EXPLOSIVO; si la barra se pone lenta, corta la serie. Descanso 2-3 min. NO ir al fallo — el pesado es el viernes. [27/08: MANTENER la dosis de la semana pasada (3x5 saltos + 3x5 sentadillas al 60%). NO subir series ni altura de cajon todavia — hubo molestia de gluteo el 26/08 que se resolvio sola. Se progresa recien si esta semana pasa limpia.]",
+     "nota_plan": "FC objetivo 166-174. Reps mas largos, mismo ritmo que la semana pasada.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-01",
+     "guia": {
+      "objetivo": "Subir el techo de esfuerzo sostenible. NO es una sesión a fondo: al terminar tenés que poder hacer 3 series más.",
+      "pasos": [
+       "Entrada en calor 15 min suave en bloques cortos.",
+       "4 repeticiones de 8 minutos a ritmo umbral, con 1' de trote suave entre cada una.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [
+       "Umbral: 6:50/km (medido 11/08 y 25/08)",
+       "FC objetivo: 166-174"
+      ],
+      "criterio": "El ÚLTIMO rep igual o más rápido que el primero. Si se cae, saliste rápido.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "02/09/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "7 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-02",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "03/09/2026",
+     "dia": "Jueves",
+     "tipo": "VELOCIDAD",
+     "sesion": "15' cal + 6 x 300 m a 1:15-1:18 (rec 2:30) + 10' suave — ~5.7 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Misma velocidad que los 200 de la semana pasada, distancia mayor. 1:15-1:18 en 300 = ritmo de milla 6:42-6:58.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-03",
+     "guia": {
+      "objetivo": "Velocidad pura. Correr al ritmo objetivo real en dosis corta, con recuperación COMPLETA.",
+      "pasos": [
+       "Entrada en calor 15 min EN BLOQUES CORTOS (trote 3-4 min, caminás un poco, retomás).",
+       "6 × 300 m al ritmo indicado.",
+       "Recuperación COMPLETA entre reps: esperá a estar recuperado de verdad.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [
+       "200 m → 48-52 s",
+       "300 m → 1:13-1:18",
+       "400 m → 1:37-1:48"
+      ],
+      "criterio": "La ÚLTIMA igual o más rápida que la primera. Si la última sale más lenta, saliste demasiado fuerte.",
+      "avisos": [
+       "NO es una sesión de resistencia ni de acumular fatiga. Si terminás sintiendo que podías hacer 3 más, está bien hecha.",
+       "RESPETAR la recuperación completa. Con recuperación corta esto deja de entrenar velocidad y pasa a entrenar tolerancia al lactato, que es otro estímulo y tiene su lugar más adelante (20/10)."
+      ]
+     }
+    },
+    {
+     "fecha": "04/09/2026",
+     "dia": "Viernes",
+     "tipo": "Fácil",
+     "sesion": "4 km muy suave",
+     "sesion_pm": null,
+     "gym": "Piernas PESADO",
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-04",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    },
+    {
+     "fecha": "05/09/2026",
+     "dia": "Sábado",
+     "tipo": "TIRADA LARGA",
+     "sesion": "13 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-05",
+     "guia": {
+      "objetivo": "La sesión aeróbica más importante de la semana. Construye la base que sostiene las sesiones de calidad.",
+      "pasos": [
+       "Continuo, a ritmo cómodo.",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo de referencia 160-163 (límite, no objetivo). Gobierna el talk test."
+      ],
+      "criterio": "Poder decir una frase entera en voz alta durante toda la sesión.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "06/09/2026",
+     "dia": "Domingo",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-06",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "numero": 8,
+   "fase": "B1. RECONVERSION + VELOCIDAD — semana de TEST",
+   "volumen": "~43 km",
+   "rango": "07/09 al 13/09/2026",
+   "dias": [
+    {
+     "fecha": "07/09/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-07",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "08/09/2026",
+     "dia": "Martes",
+     "tipo": "UMBRAL",
+     "sesion": "15' cal + 3 x 10' a 6:50/km (rec 90\" trote) + 10' suave — ~7.6 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": "PIERNAS LIGERO — POTENCIA. Mover peso moderado RAPIDO, no hipertrofia ni fuerza maxima. A) 3 x 5 saltos a cajon 30-40 cm (subir saltando, BAJAR CAMINANDO). Descanso 1-2 min. B) 3 x 5 sentadillas al 60% (~60 kg): bajar controlado, SUBIR EXPLOSIVO; si la barra se pone lenta, corta la serie. Descanso 2-3 min. NO ir al fallo — el pesado es el viernes.",
+     "nota_plan": "Ultimo umbral del bloque 1. FC objetivo 166-174.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-08",
+     "guia": {
+      "objetivo": "Subir el techo de esfuerzo sostenible. NO es una sesión a fondo: al terminar tenés que poder hacer 3 series más.",
+      "pasos": [
+       "Entrada en calor 15 min suave en bloques cortos.",
+       "3 repeticiones de 10 minutos a ritmo umbral, con 90\" de trote suave entre cada una.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [
+       "Umbral: 6:50/km (medido 11/08 y 25/08)",
+       "FC objetivo: 166-174"
+      ],
+      "criterio": "El ÚLTIMO rep igual o más rápido que el primero. Si se cae, saliste rápido.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "09/09/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "6 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-09",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "10/09/2026",
+     "dia": "Jueves",
+     "tipo": "VELOCIDAD",
+     "sesion": "15' cal + 5 x 400 m a 1:44-1:48 (rec 3' completa) + 10' suave — ~5.9 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "1:44-1:48 en 400 = ritmo de milla 7:00-7:14. Rep mas largo, ritmo algo mas conservador. Ensayo directo del test del sabado.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-10",
+     "guia": {
+      "objetivo": "Velocidad pura. Correr al ritmo objetivo real en dosis corta, con recuperación COMPLETA.",
+      "pasos": [
+       "Entrada en calor 15 min EN BLOQUES CORTOS (trote 3-4 min, caminás un poco, retomás).",
+       "5 × 400 m al ritmo indicado.",
+       "Recuperación COMPLETA entre reps: esperá a estar recuperado de verdad.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [
+       "200 m → 48-52 s",
+       "300 m → 1:13-1:18",
+       "400 m → 1:37-1:48"
+      ],
+      "criterio": "La ÚLTIMA igual o más rápida que la primera. Si la última sale más lenta, saliste demasiado fuerte.",
+      "avisos": [
+       "NO es una sesión de resistencia ni de acumular fatiga. Si terminás sintiendo que podías hacer 3 más, está bien hecha.",
+       "RESPETAR la recuperación completa. Con recuperación corta esto deja de entrenar velocidad y pasa a entrenar tolerancia al lactato, que es otro estímulo y tiene su lugar más adelante (20/10)."
+      ]
+     }
+    },
+    {
+     "fecha": "11/09/2026",
+     "dia": "Viernes",
+     "tipo": "Fácil",
+     "sesion": "4 km muy suave",
+     "sesion_pm": null,
+     "gym": "SIN gym de piernas (vispera de test) — mover la sesion pesada al lunes",
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Vispera de test: nada de carga de piernas (precedente seccion 26 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-11",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    },
+    {
+     "fecha": "12/09/2026",
+     "dia": "Sábado",
+     "tipo": "TEST",
+     "sesion": "TEST 1: 600 m A FONDO — 15' cal EN BLOQUES CORTOS + 4 rectas + 600 m + 10' suave — ~3.9 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "EL TEST QUE FALTABA. Mide el hueco entre umbral (6:50/km) y 400 maximo (1:50), que hoy no tenemos. Protocolo corregido de los 2 fallos del 15/08: (1) calentamiento en bloques cortos, NO 15' continuos; (2) AUTOLAP CADA 200 m para tener referencia de ritmo desde el metro cero. SIN pass/fail: el resultado reancla los ritmos de todo el resto del plan.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-12",
+     "guia": {
+      "objetivo": "TEST 1 — mide lo que HOY no sabemos: qué ritmo sostenés entre el umbral (6:50/km) y tu 400 máximo (1:50). Ese resultado reancla los ritmos de todo el resto del plan.",
+      "pasos": [
+       "Entrada en calor 15 min EN BLOQUES CORTOS + 4 rectas.",
+       "AUTOLAP CADA 200 m en el reloj (corrige el fallo del 15/08: sin referencia no sabés que vas mal hasta que ya es tarde).",
+       "Salir al ritmo previsto, NO por sensación.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [],
+      "criterio": "Parciales parejos o negative split. Sin pass/fail por tiempo.",
+      "avisos": [
+       "Nada de gimnasio de piernas el día anterior.",
+       "Zapatillas de siempre, nada nuevo."
+      ]
+     }
+    },
+    {
+     "fecha": "13/09/2026",
+     "dia": "Domingo",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-13",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    }
+   ]
+  },
+  {
+   "numero": 9,
+   "fase": "ABSORCION (no saltear)",
+   "volumen": "~40 km",
+   "rango": "14/09 al 20/09/2026",
+   "dias": [
+    {
+     "fecha": "14/09/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "6 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-14",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "15/09/2026",
+     "dia": "Martes",
+     "tipo": "Umbral suave",
+     "sesion": "15' cal + 3 x 6' a 6:55/km (rec 90\") + 10' suave — ~5.8 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": "PIERNAS LIGERO — POTENCIA. Mover peso moderado RAPIDO, no hipertrofia ni fuerza maxima. A) 3 x 5 saltos a cajon 30-40 cm (subir saltando, BAJAR CAMINANDO). Descanso 1-2 min. B) 3 x 5 sentadillas al 60% (~60 kg): bajar controlado, SUBIR EXPLOSIVO; si la barra se pone lenta, corta la serie. Descanso 2-3 min. NO ir al fallo — el pesado es el viernes. [Semana de absorcion: hacer solo A, o A+B con 2 series en vez de 3.]",
+     "nota_plan": "Semana de absorcion: umbral de mantenimiento, no de progresion. Sin buscar ritmo.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-15",
+     "guia": {
+      "objetivo": "Umbral de MANTENIMIENTO en semana de absorción. No se busca ritmo, se mantiene el estímulo.",
+      "pasos": [
+       "Entrada en calor 15 min suave en bloques cortos.",
+       "3 repeticiones de 6 minutos a ritmo umbral, con 90\" de trote suave entre cada una.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [
+       "~6:55/km, algo más suave que el umbral pleno",
+       "FC 160-168"
+      ],
+      "criterio": "El ÚLTIMO rep igual o más rápido que el primero. Si se cae, saliste rápido.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "16/09/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "5 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-16",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "17/09/2026",
+     "dia": "Jueves",
+     "tipo": "VELOCIDAD suave",
+     "sesion": "15' cal + 6 x 200 m al ritmo que dio el TEST del 12/09 (rec 2:30) + 10' suave — ~5.1 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Primera sesion con ritmo ANCLADO EN DATO PROPIO, no estimado. Volumen bajo a proposito: la semana es de absorcion.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-17",
+     "guia": {
+      "objetivo": "Velocidad pura. Correr al ritmo objetivo real en dosis corta, con recuperación COMPLETA.",
+      "pasos": [
+       "Entrada en calor 15 min EN BLOQUES CORTOS (trote 3-4 min, caminás un poco, retomás).",
+       "6 × 200 m al ritmo indicado.",
+       "Recuperación COMPLETA entre reps: esperá a estar recuperado de verdad.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [
+       "200 m → 48-52 s",
+       "300 m → 1:13-1:18",
+       "400 m → 1:37-1:48"
+      ],
+      "criterio": "La ÚLTIMA igual o más rápida que la primera. Si la última sale más lenta, saliste demasiado fuerte.",
+      "avisos": [
+       "NO es una sesión de resistencia ni de acumular fatiga. Si terminás sintiendo que podías hacer 3 más, está bien hecha.",
+       "RESPETAR la recuperación completa. Con recuperación corta esto deja de entrenar velocidad y pasa a entrenar tolerancia al lactato, que es otro estímulo y tiene su lugar más adelante (20/10)."
+      ]
+     }
+    },
+    {
+     "fecha": "18/09/2026",
+     "dia": "Viernes",
+     "tipo": "Fácil",
+     "sesion": "3 km muy suave",
+     "sesion_pm": null,
+     "gym": "Piernas PESADO",
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-18",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    },
+    {
+     "fecha": "19/09/2026",
+     "dia": "Sábado",
+     "tipo": "Fácil",
+     "sesion": "9 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Ya NO es dia de test: el test de 3 km del plan original se reemplazo por el de 600 m del 12/09 (ver .md seccion 49).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-19",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "20/09/2026",
+     "dia": "Domingo",
+     "tipo": "Fácil",
+     "sesion": "6 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-20",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "numero": 10,
+   "fase": "B2. POTENCIA AEROBICA + ESPECIFICA",
+   "volumen": "~54 km",
+   "rango": "21/09 al 27/09/2026",
+   "dias": [
+    {
+     "fecha": "21/09/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-21",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "22/09/2026",
+     "dia": "Martes",
+     "tipo": "VO2MÁX",
+     "sesion": "15' cal + 5 x 800 m (rec 2:30 trote) + 10' suave — ~7.7 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": "PIERNAS LIGERO — POTENCIA. Mover peso moderado RAPIDO, no hipertrofia ni fuerza maxima. A) 3 x 5 saltos a cajon 30-40 cm (subir saltando, BAJAR CAMINANDO). Descanso 1-2 min. B) 3 x 5 sentadillas al 60% (~60 kg): bajar controlado, SUBIR EXPLOSIVO; si la barra se pone lenta, corta la serie. Descanso 2-3 min. NO ir al fallo — el pesado es el viernes.",
+     "nota_plan": "Ritmo: el del TEST de 600 del 12/09 + ~5 seg por 400 (es una distancia mayor). FC esperada 180-190. Criterio: si el 4to o 5to rep se cae mas de 3 seg, saliste rapido. RITMO A REANCLAR con el TEST del 12/09 y el del 10/10 — los numeros de abajo son la referencia de partida, no un dogma.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-22",
+     "guia": {
+      "objetivo": "Potencia aeróbica. Reps largos cerca del máximo consumo de oxígeno.",
+      "pasos": [
+       "Entrada en calor 15 min en bloques cortos.",
+       "5 × 800 m con trote de recuperación según la fila.",
+       "Vuelta a la calma 10 min."
+      ],
+      "ritmos": [
+       "RITMO A REANCLAR con el test de 600 m del 12/09 (+ ~5 s por 400 respecto de ese test, por ser distancia mayor).",
+       "FC esperada 180-190."
+      ],
+      "criterio": "Si el 4º o 5º rep se cae más de 3 segundos, saliste rápido.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "23/09/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "7 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-23",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "24/09/2026",
+     "dia": "Jueves",
+     "tipo": "ESPECÍFICA",
+     "sesion": "15' cal + 8 x 300 m a 1:13-1:15 (rec 2:30) + 10' suave — ~6.7 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "PRIMER CONTACTO CON RITMO 6:30 REAL: 1:13-1:15 en 300 = ritmo de milla 6:32-6:42. En dosis corta y con recuperacion generosa es ejecutable HOY. Sostenerlo 4 vueltas seguidas es lo que entrena el bloque 3. RITMO A REANCLAR con el TEST del 12/09 y el del 10/10 — los numeros de abajo son la referencia de partida, no un dogma.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-24",
+     "guia": {
+      "objetivo": "Correr al RITMO OBJETIVO de la milla y alargar progresivamente la distancia a la que lo sostenés. Es el corazón del plan.",
+      "pasos": [
+       "Entrada en calor 15 min en bloques cortos.",
+       "Las repeticiones según la fila, respetando la recuperación indicada.",
+       "Vuelta a la calma 10 min."
+      ],
+      "ritmos": [
+       "200 m → 48-50 s",
+       "300 m → 1:12-1:15",
+       "400 m → 1:36-1:40",
+       "500 m → 2:01-2:05",
+       "600 m → 2:25-2:31",
+       "1200 m → 4:50-5:02",
+       "(equivalen a ritmo de milla 6:30-6:45; reanclar tras el test del 10/10)"
+      ],
+      "criterio": "Sostener el RITMO. Si no se puede sostener, la sesión terminó — no se completa a cualquier costo.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "25/09/2026",
+     "dia": "Viernes",
+     "tipo": "Fácil",
+     "sesion": "4 km muy suave",
+     "sesion_pm": null,
+     "gym": "Piernas PESADO",
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-25",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    },
+    {
+     "fecha": "26/09/2026",
+     "dia": "Sábado",
+     "tipo": "TIRADA LARGA",
+     "sesion": "13 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-26",
+     "guia": {
+      "objetivo": "La sesión aeróbica más importante de la semana. Construye la base que sostiene las sesiones de calidad.",
+      "pasos": [
+       "Continuo, a ritmo cómodo.",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo de referencia 160-163 (límite, no objetivo). Gobierna el talk test."
+      ],
+      "criterio": "Poder decir una frase entera en voz alta durante toda la sesión.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "27/09/2026",
+     "dia": "Domingo",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-27",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "numero": 11,
+   "fase": "B2. POTENCIA AEROBICA + ESPECIFICA",
+   "volumen": "~54 km",
+   "rango": "28/09 al 04/10/2026",
+   "dias": [
+    {
+     "fecha": "28/09/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-28",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "29/09/2026",
+     "dia": "Martes",
+     "tipo": "VO2MÁX",
+     "sesion": "15' cal + 6 x 800 m (rec 2:15 trote) + 10' suave — ~8.6 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": "PIERNAS LIGERO — POTENCIA. Mover peso moderado RAPIDO, no hipertrofia ni fuerza maxima. A) 3 x 5 saltos a cajon 30-40 cm (subir saltando, BAJAR CAMINANDO). Descanso 1-2 min. B) 3 x 5 sentadillas al 60% (~60 kg): bajar controlado, SUBIR EXPLOSIVO; si la barra se pone lenta, corta la serie. Descanso 2-3 min. NO ir al fallo — el pesado es el viernes.",
+     "nota_plan": "Un rep mas y 15 seg menos de recuperacion que la semana pasada: la progresion es por densidad, no por ritmo. RITMO A REANCLAR con el TEST del 12/09 y el del 10/10 — los numeros de abajo son la referencia de partida, no un dogma.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-29",
+     "guia": {
+      "objetivo": "Potencia aeróbica. Reps largos cerca del máximo consumo de oxígeno.",
+      "pasos": [
+       "Entrada en calor 15 min en bloques cortos.",
+       "6 × 800 m con trote de recuperación según la fila.",
+       "Vuelta a la calma 10 min."
+      ],
+      "ritmos": [
+       "RITMO A REANCLAR con el test de 600 m del 12/09 (+ ~5 s por 400 respecto de ese test, por ser distancia mayor).",
+       "FC esperada 180-190."
+      ],
+      "criterio": "Si el 4º o 5º rep se cae más de 3 segundos, saliste rápido.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "30/09/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "6 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-09-30",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "01/10/2026",
+     "dia": "Jueves",
+     "tipo": "ESPECÍFICA",
+     "sesion": "15' cal + 5 x 500 m a 2:02-2:05 (rec 3') + 10' suave — ~6.4 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "2:02-2:05 en 500 = ritmo de milla 6:34-6:42. Se alarga la distancia manteniendo el ritmo objetivo — esta es la progresion que acerca a 6:30. RITMO A REANCLAR con el TEST del 12/09 y el del 10/10 — los numeros de abajo son la referencia de partida, no un dogma.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-01",
+     "guia": {
+      "objetivo": "Correr al RITMO OBJETIVO de la milla y alargar progresivamente la distancia a la que lo sostenés. Es el corazón del plan.",
+      "pasos": [
+       "Entrada en calor 15 min en bloques cortos.",
+       "Las repeticiones según la fila, respetando la recuperación indicada.",
+       "Vuelta a la calma 10 min."
+      ],
+      "ritmos": [
+       "200 m → 48-50 s",
+       "300 m → 1:12-1:15",
+       "400 m → 1:36-1:40",
+       "500 m → 2:01-2:05",
+       "600 m → 2:25-2:31",
+       "1200 m → 4:50-5:02",
+       "(equivalen a ritmo de milla 6:30-6:45; reanclar tras el test del 10/10)"
+      ],
+      "criterio": "Sostener el RITMO. Si no se puede sostener, la sesión terminó — no se completa a cualquier costo.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "02/10/2026",
+     "dia": "Viernes",
+     "tipo": "Fácil",
+     "sesion": "4 km muy suave",
+     "sesion_pm": null,
+     "gym": "Piernas PESADO",
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-02",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    },
+    {
+     "fecha": "03/10/2026",
+     "dia": "Sábado",
+     "tipo": "TIRADA LARGA",
+     "sesion": "13 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-03",
+     "guia": {
+      "objetivo": "La sesión aeróbica más importante de la semana. Construye la base que sostiene las sesiones de calidad.",
+      "pasos": [
+       "Continuo, a ritmo cómodo.",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo de referencia 160-163 (límite, no objetivo). Gobierna el talk test."
+      ],
+      "criterio": "Poder decir una frase entera en voz alta durante toda la sesión.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "04/10/2026",
+     "dia": "Domingo",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-04",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    }
+   ]
+  },
+  {
+   "numero": 12,
+   "fase": "B2 — semana de TEST DE MILLA",
+   "volumen": "~45 km",
+   "rango": "05/10 al 11/10/2026",
+   "dias": [
+    {
+     "fecha": "05/10/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-05",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "06/10/2026",
+     "dia": "Martes",
+     "tipo": "VO2MÁX",
+     "sesion": "15' cal + 4 x 1000 m (rec 3' trote) + 10' suave — ~7.6 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": "PIERNAS LIGERO — POTENCIA. Mover peso moderado RAPIDO, no hipertrofia ni fuerza maxima. A) 3 x 5 saltos a cajon 30-40 cm (subir saltando, BAJAR CAMINANDO). Descanso 1-2 min. B) 3 x 5 sentadillas al 60% (~60 kg): bajar controlado, SUBIR EXPLOSIVO; si la barra se pone lenta, corta la serie. Descanso 2-3 min. NO ir al fallo — el pesado es el viernes.",
+     "nota_plan": "Ultimo VO2max del bloque. Reps mas largos, mismo esfuerzo. RITMO A REANCLAR con el TEST del 12/09 y el del 10/10 — los numeros de abajo son la referencia de partida, no un dogma.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-06",
+     "guia": {
+      "objetivo": "Potencia aeróbica. Reps largos cerca del máximo consumo de oxígeno.",
+      "pasos": [
+       "Entrada en calor 15 min en bloques cortos.",
+       "4 × 1000 m con trote de recuperación según la fila.",
+       "Vuelta a la calma 10 min."
+      ],
+      "ritmos": [
+       "RITMO A REANCLAR con el test de 600 m del 12/09 (+ ~5 s por 400 respecto de ese test, por ser distancia mayor).",
+       "FC esperada 180-190."
+      ],
+      "criterio": "Si el 4º o 5º rep se cae más de 3 segundos, saliste rápido.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "07/10/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "6 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-07",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "08/10/2026",
+     "dia": "Jueves",
+     "tipo": "ESPECÍFICA",
+     "sesion": "15' cal + 6 x 400 m a 1:40-1:44 (rec 3') + 10' suave — ~6.5 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "1:40-1:44 en 400 = ritmo de milla 6:42-6:58. Ensayo directo del ritmo del sabado, en fracciones. RITMO A REANCLAR con el TEST del 12/09 y el del 10/10 — los numeros de abajo son la referencia de partida, no un dogma.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-08",
+     "guia": {
+      "objetivo": "Correr al RITMO OBJETIVO de la milla y alargar progresivamente la distancia a la que lo sostenés. Es el corazón del plan.",
+      "pasos": [
+       "Entrada en calor 15 min en bloques cortos.",
+       "Las repeticiones según la fila, respetando la recuperación indicada.",
+       "Vuelta a la calma 10 min."
+      ],
+      "ritmos": [
+       "200 m → 48-50 s",
+       "300 m → 1:12-1:15",
+       "400 m → 1:36-1:40",
+       "500 m → 2:01-2:05",
+       "600 m → 2:25-2:31",
+       "1200 m → 4:50-5:02",
+       "(equivalen a ritmo de milla 6:30-6:45; reanclar tras el test del 10/10)"
+      ],
+      "criterio": "Sostener el RITMO. Si no se puede sostener, la sesión terminó — no se completa a cualquier costo.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "09/10/2026",
+     "dia": "Viernes",
+     "tipo": "Fácil",
+     "sesion": "4 km muy suave",
+     "sesion_pm": null,
+     "gym": "SIN gym de piernas (vispera de test)",
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Vispera de test: nada de carga de piernas.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-09",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    },
+    {
+     "fecha": "10/10/2026",
+     "dia": "Sábado",
+     "tipo": "TEST",
+     "sesion": "TEST 2: MILLA COMPLETA BIEN ADMINISTRADA — 15' cal EN BLOQUES CORTOS + 4 rectas + 1609 m + 10' suave — ~5.0 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "EL TEST MAS IMPORTANTE DEL PLAN. Primera milla del ano corrida con pacing correcto. Protocolo: AUTOLAP CADA 200 m (no 400 — el fallo del 15/08 fue no tener referencia en los primeros 400). Salir al ritmo indicado, NO por sensacion. Objetivo de EJECUCION: parciales parejos o negative split. El tiempo importa menos que pisarla bien: una milla mal administrada no mide nada. Reancla el pronostico de carrera.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-10",
+     "guia": {
+      "objetivo": "TEST 2 — el más importante del plan. Primera milla del año bien administrada, con 6 semanas por delante para corregir.",
+      "pasos": [
+       "Entrada en calor 15 min EN BLOQUES CORTOS + 4 rectas.",
+       "AUTOLAP CADA 200 m en el reloj (corrige el fallo del 15/08: sin referencia no sabés que vas mal hasta que ya es tarde).",
+       "Salir al ritmo previsto, NO por sensación.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [],
+      "criterio": "Parciales parejos o negative split. Sin pass/fail por tiempo.",
+      "avisos": [
+       "Nada de gimnasio de piernas el día anterior.",
+       "Zapatillas de siempre, nada nuevo."
+      ]
+     }
+    },
+    {
+     "fecha": "11/10/2026",
+     "dia": "Domingo",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-11",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    }
+   ]
+  },
+  {
+   "numero": 13,
+   "fase": "ABSORCION (no saltear)",
+   "volumen": "~41 km",
+   "rango": "12/10 al 18/10/2026",
+   "dias": [
+    {
+     "fecha": "12/10/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "6 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-12",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "13/10/2026",
+     "dia": "Martes",
+     "tipo": "Umbral suave",
+     "sesion": "15' cal + 3 x 6' a 6:55/km (rec 90\") + 4 rectas + 10' suave — ~6.2 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": "PIERNAS LIGERO — POTENCIA. Mover peso moderado RAPIDO, no hipertrofia ni fuerza maxima. A) 3 x 5 saltos a cajon 30-40 cm (subir saltando, BAJAR CAMINANDO). Descanso 1-2 min. B) 3 x 5 sentadillas al 60% (~60 kg): bajar controlado, SUBIR EXPLOSIVO; si la barra se pone lenta, corta la serie. Descanso 2-3 min. NO ir al fallo — el pesado es el viernes. [Semana de absorcion: hacer solo A, o A+B con 2 series en vez de 3.]",
+     "nota_plan": "Absorcion post-test de milla. Mantenimiento, no progresion.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-13",
+     "guia": {
+      "objetivo": "Umbral de MANTENIMIENTO en semana de absorción. No se busca ritmo, se mantiene el estímulo.",
+      "pasos": [
+       "Entrada en calor 15 min suave en bloques cortos.",
+       "3 repeticiones de 6 minutos a ritmo umbral, con 90\" de trote suave entre cada una.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [
+       "~6:55/km, algo más suave que el umbral pleno",
+       "FC 160-168"
+      ],
+      "criterio": "El ÚLTIMO rep igual o más rápido que el primero. Si se cae, saliste rápido.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "14/10/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "5 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-14",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "15/10/2026",
+     "dia": "Jueves",
+     "tipo": "ESPECÍFICA corta",
+     "sesion": "15' cal + 5 x 300 m a ritmo objetivo (rec 3') + 10' suave — ~5.4 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ritmo objetivo REANCLADO con el resultado del test del 10/10. Volumen bajo: la semana es de recuperacion real.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-15",
+     "guia": {
+      "objetivo": "Correr al RITMO OBJETIVO de la milla y alargar progresivamente la distancia a la que lo sostenés. Es el corazón del plan.",
+      "pasos": [
+       "Entrada en calor 15 min en bloques cortos.",
+       "Las repeticiones según la fila, respetando la recuperación indicada.",
+       "Vuelta a la calma 10 min."
+      ],
+      "ritmos": [
+       "200 m → 48-50 s",
+       "300 m → 1:12-1:15",
+       "400 m → 1:36-1:40",
+       "500 m → 2:01-2:05",
+       "600 m → 2:25-2:31",
+       "1200 m → 4:50-5:02",
+       "(equivalen a ritmo de milla 6:30-6:45; reanclar tras el test del 10/10)"
+      ],
+      "criterio": "Sostener el RITMO. Si no se puede sostener, la sesión terminó — no se completa a cualquier costo.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "16/10/2026",
+     "dia": "Viernes",
+     "tipo": "Fácil",
+     "sesion": "3 km muy suave",
+     "sesion_pm": null,
+     "gym": "Piernas PESADO",
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-16",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    },
+    {
+     "fecha": "17/10/2026",
+     "dia": "Sábado",
+     "tipo": "Fácil",
+     "sesion": "9 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Ya NO es dia de test: el test de 1000 m del plan original se reemplazo por el de milla del 10/10 (ver .md seccion 49).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-17",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "18/10/2026",
+     "dia": "Domingo",
+     "tipo": "Fácil",
+     "sesion": "6 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-18",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "numero": 14,
+   "fase": "B3. ESPECIFICA DE MILLA (logica Canova)",
+   "volumen": "~54 km",
+   "rango": "19/10 al 25/10/2026",
+   "dias": [
+    {
+     "fecha": "19/10/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-19",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "20/10/2026",
+     "dia": "Martes",
+     "tipo": "ESPECÍFICA (clave)",
+     "sesion": "15' cal + 3 x (4 x 400 m) a ritmo objetivo — rec 1' entre reps, 4' entre series + 10' suave — ~9.0 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": "PIERNAS LIGERO — POTENCIA. Mover peso moderado RAPIDO, no hipertrofia ni fuerza maxima. A) 3 x 5 saltos a cajon 30-40 cm (subir saltando, BAJAR CAMINANDO). Descanso 1-2 min. B) 3 x 5 sentadillas al 60% (~60 kg): bajar controlado, SUBIR EXPLOSIVO; si la barra se pone lenta, corta la serie. Descanso 2-3 min. NO ir al fallo — el pesado es el viernes.",
+     "nota_plan": "LA SESION QUE DEFINE EL PLAN. Simula la demanda real de la milla: sostener ritmo con acidosis acumulada. La recuperacion de 1' es corta A PROPOSITO. Si la 3ra serie se cae, ese es el dato — no un fracaso. \"Ritmo objetivo\" = el reanclado con el test de milla del 10/10. Referencia de partida si el test confirma la proyeccion: 1:37-1:40 por 400.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-20",
+     "guia": {
+      "objetivo": "LA SESIÓN QUE DEFINE EL PLAN. Simula la demanda real de la milla: sostener ritmo con acidosis acumulada.",
+      "pasos": [
+       "Entrada en calor 15 min en bloques cortos.",
+       "Las repeticiones según la fila, respetando la recuperación indicada.",
+       "Vuelta a la calma 10 min."
+      ],
+      "ritmos": [
+       "200 m → 48-50 s",
+       "300 m → 1:12-1:15",
+       "400 m → 1:36-1:40",
+       "500 m → 2:01-2:05",
+       "600 m → 2:25-2:31",
+       "1200 m → 4:50-5:02",
+       "(equivalen a ritmo de milla 6:30-6:45; reanclar tras el test del 10/10)"
+      ],
+      "criterio": "Sostener el RITMO. Si no se puede sostener, la sesión terminó — no se completa a cualquier costo.",
+      "avisos": [
+       "La recuperación de 1 minuto es corta A PROPÓSITO.",
+       "Si la 3ª serie se cae, ese es el dato — no es un fracaso."
+      ]
+     }
+    },
+    {
+     "fecha": "21/10/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "6 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-21",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "22/10/2026",
+     "dia": "Jueves",
+     "tipo": "UMBRAL + velocidad",
+     "sesion": "15' cal + 20' continuo a 6:50/km + 6 x 200 m rapidos (rec 2') + 10' suave — ~8.0 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Sesion mixta: mantiene el umbral (que no se abandona) y agrega velocidad pura al final, con las piernas ya cansadas.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-22",
+     "guia": {
+      "objetivo": "Subir el techo de esfuerzo sostenible. NO es una sesión a fondo: al terminar tenés que poder hacer 3 series más.",
+      "pasos": [
+       "Entrada en calor 15 min suave en bloques cortos.",
+       "Bloque de umbral según la fila.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [
+       "Umbral: 6:50/km (medido 11/08 y 25/08)",
+       "FC objetivo: 166-174"
+      ],
+      "criterio": "El ÚLTIMO rep igual o más rápido que el primero. Si se cae, saliste rápido.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "23/10/2026",
+     "dia": "Viernes",
+     "tipo": "Fácil",
+     "sesion": "4 km muy suave",
+     "sesion_pm": null,
+     "gym": "Piernas PESADO",
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-23",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    },
+    {
+     "fecha": "24/10/2026",
+     "dia": "Sábado",
+     "tipo": "TIRADA LARGA",
+     "sesion": "11 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-24",
+     "guia": {
+      "objetivo": "La sesión aeróbica más importante de la semana. Construye la base que sostiene las sesiones de calidad.",
+      "pasos": [
+       "Continuo, a ritmo cómodo.",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo de referencia 160-163 (límite, no objetivo). Gobierna el talk test."
+      ],
+      "criterio": "Poder decir una frase entera en voz alta durante toda la sesión.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "25/10/2026",
+     "dia": "Domingo",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-25",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    }
+   ]
+  },
+  {
+   "numero": 15,
+   "fase": "B3. ESPECIFICA DE MILLA",
+   "volumen": "~50 km",
+   "rango": "26/10 al 01/11/2026",
+   "dias": [
+    {
+     "fecha": "26/10/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-26",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "27/10/2026",
+     "dia": "Martes",
+     "tipo": "ESPECÍFICA",
+     "sesion": "15' cal + 2 x (600 + 400 + 200) a ritmo objetivo — rec 2'/2' dentro, 5' entre series + 10' suave — ~6.3 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": "PIERNAS LIGERO — POTENCIA. Mover peso moderado RAPIDO, no hipertrofia ni fuerza maxima. A) 3 x 5 saltos a cajon 30-40 cm (subir saltando, BAJAR CAMINANDO). Descanso 1-2 min. B) 3 x 5 sentadillas al 60% (~60 kg): bajar controlado, SUBIR EXPLOSIVO; si la barra se pone lenta, corta la serie. Descanso 2-3 min. NO ir al fallo — el pesado es el viernes.",
+     "nota_plan": "Serie descendente: la distancia baja dentro de cada bloque, el ritmo se sostiene. Ensaya el final de la milla, cuando ya duele. \"Ritmo objetivo\" = el reanclado con el test de milla del 10/10. Referencia de partida si el test confirma la proyeccion: 1:37-1:40 por 400.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-27",
+     "guia": {
+      "objetivo": "Correr al RITMO OBJETIVO de la milla y alargar progresivamente la distancia a la que lo sostenés. Es el corazón del plan.",
+      "pasos": [
+       "Entrada en calor 15 min en bloques cortos.",
+       "Las repeticiones según la fila, respetando la recuperación indicada.",
+       "Vuelta a la calma 10 min."
+      ],
+      "ritmos": [
+       "200 m → 48-50 s",
+       "300 m → 1:12-1:15",
+       "400 m → 1:36-1:40",
+       "500 m → 2:01-2:05",
+       "600 m → 2:25-2:31",
+       "1200 m → 4:50-5:02",
+       "(equivalen a ritmo de milla 6:30-6:45; reanclar tras el test del 10/10)"
+      ],
+      "criterio": "Sostener el RITMO. Si no se puede sostener, la sesión terminó — no se completa a cualquier costo.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "28/10/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "6 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-28",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "29/10/2026",
+     "dia": "Jueves",
+     "tipo": "ESPECÍFICA",
+     "sesion": "15' cal + 4 x 600 m a ritmo objetivo (rec 4' completa) + 10' suave — ~6.3 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "La distancia mas larga a ritmo objetivo de todo el plan (600 m = 37% de la milla). A ritmo 6:30 esto es 2:25 por rep. Recuperacion generosa: el objetivo es el ritmo, no la fatiga. \"Ritmo objetivo\" = el reanclado con el test de milla del 10/10. Referencia de partida si el test confirma la proyeccion: 1:37-1:40 por 400.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-29",
+     "guia": {
+      "objetivo": "Correr al RITMO OBJETIVO de la milla y alargar progresivamente la distancia a la que lo sostenés. Es el corazón del plan.",
+      "pasos": [
+       "Entrada en calor 15 min en bloques cortos.",
+       "Las repeticiones según la fila, respetando la recuperación indicada.",
+       "Vuelta a la calma 10 min."
+      ],
+      "ritmos": [
+       "200 m → 48-50 s",
+       "300 m → 1:12-1:15",
+       "400 m → 1:36-1:40",
+       "500 m → 2:01-2:05",
+       "600 m → 2:25-2:31",
+       "1200 m → 4:50-5:02",
+       "(equivalen a ritmo de milla 6:30-6:45; reanclar tras el test del 10/10)"
+      ],
+      "criterio": "Sostener el RITMO. Si no se puede sostener, la sesión terminó — no se completa a cualquier costo.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "30/10/2026",
+     "dia": "Viernes",
+     "tipo": "Fácil",
+     "sesion": "4 km muy suave",
+     "sesion_pm": null,
+     "gym": "Piernas PESADO",
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-30",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    },
+    {
+     "fecha": "31/10/2026",
+     "dia": "Sábado",
+     "tipo": "TIRADA LARGA",
+     "sesion": "11 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-10-31",
+     "guia": {
+      "objetivo": "La sesión aeróbica más importante de la semana. Construye la base que sostiene las sesiones de calidad.",
+      "pasos": [
+       "Continuo, a ritmo cómodo.",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo de referencia 160-163 (límite, no objetivo). Gobierna el talk test."
+      ],
+      "criterio": "Poder decir una frase entera en voz alta durante toda la sesión.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "01/11/2026",
+     "dia": "Domingo",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-01",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    }
+   ]
+  },
+  {
+   "numero": 16,
+   "fase": "B3 — semana de TEST PREDICTOR",
+   "volumen": "~41 km",
+   "rango": "02/11 al 08/11/2026",
+   "dias": [
+    {
+     "fecha": "02/11/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "7 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-02",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "03/11/2026",
+     "dia": "Martes",
+     "tipo": "ESPECÍFICA",
+     "sesion": "15' cal + 1200 m a ritmo objetivo + 5' pausa + 4 x 200 m rapidos + 10' suave — ~5.8 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": "Piernas LIGERO (ultima sesion de potencia)",
+     "nota_plan": "1200 m a ritmo objetivo = 75% de la milla de un tiron. A ritmo 6:30 son 4:51. Es el ensayo general del test del sabado. \"Ritmo objetivo\" = el reanclado con el test de milla del 10/10. Referencia de partida si el test confirma la proyeccion: 1:37-1:40 por 400.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-03",
+     "guia": {
+      "objetivo": "Correr al RITMO OBJETIVO de la milla y alargar progresivamente la distancia a la que lo sostenés. Es el corazón del plan.",
+      "pasos": [
+       "Entrada en calor 15 min en bloques cortos.",
+       "Las repeticiones según la fila, respetando la recuperación indicada.",
+       "Vuelta a la calma 10 min."
+      ],
+      "ritmos": [
+       "200 m → 48-50 s",
+       "300 m → 1:12-1:15",
+       "400 m → 1:36-1:40",
+       "500 m → 2:01-2:05",
+       "600 m → 2:25-2:31",
+       "1200 m → 4:50-5:02",
+       "(equivalen a ritmo de milla 6:30-6:45; reanclar tras el test del 10/10)"
+      ],
+      "criterio": "Sostener el RITMO. Si no se puede sostener, la sesión terminó — no se completa a cualquier costo.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "04/11/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "6 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-04",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "05/11/2026",
+     "dia": "Jueves",
+     "tipo": "Fácil",
+     "sesion": "7 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md). Semana de test: el jueves baja de intensidad a proposito.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-05",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "06/11/2026",
+     "dia": "Viernes",
+     "tipo": "Fácil",
+     "sesion": "3 km muy suave",
+     "sesion_pm": null,
+     "gym": "SIN gym de piernas (vispera de test)",
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-06",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    },
+    {
+     "fecha": "07/11/2026",
+     "dia": "Sábado",
+     "tipo": "TEST",
+     "sesion": "TEST 3: MILLA PARTIDA — 15' cal en bloques cortos + 4 rectas + 1200 m a ritmo objetivo + 4' pausa + 400 m a ritmo objetivo + 10' suave — ~5.3 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "EL MEJOR PREDICTOR DEL RESULTADO FINAL. Mide ritmo objetivo a la distancia sin el costo de una milla completa a 2 semanas de la carrera. Autolap cada 200 m. Si los 1200 salen al ritmo previsto y el 400 sale igual o mejor, la marca esta. Si el 400 se cae mucho, el ritmo de carrera hay que corregirlo hacia abajo — y es mejor saberlo hoy que el 21/11.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-07",
+     "guia": {
+      "objetivo": "TEST 3 — el mejor predictor del resultado final. Mide ritmo objetivo a la distancia sin el costo de una milla entera a 2 semanas de la carrera.",
+      "pasos": [
+       "Entrada en calor 15 min EN BLOQUES CORTOS + 4 rectas.",
+       "AUTOLAP CADA 200 m en el reloj (corrige el fallo del 15/08: sin referencia no sabés que vas mal hasta que ya es tarde).",
+       "Salir al ritmo previsto, NO por sensación.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [],
+      "criterio": "Si los 1200 salen al ritmo previsto y el 400 sale igual o mejor, la marca está. Si el 400 se cae mucho, hay que corregir el ritmo de carrera hacia abajo — y es mejor saberlo hoy.",
+      "avisos": [
+       "Nada de gimnasio de piernas el día anterior.",
+       "Zapatillas de siempre, nada nuevo."
+      ]
+     }
+    },
+    {
+     "fecha": "08/11/2026",
+     "dia": "Domingo",
+     "tipo": "Fácil",
+     "sesion": "7 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-08",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    }
+   ]
+  },
+  {
+   "numero": 17,
+   "fase": "B4. AFILADO",
+   "volumen": "~35 km",
+   "rango": "09/11 al 15/11/2026",
+   "dias": [
+    {
+     "fecha": "09/11/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "5 km fácil + 6 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-09",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "10/11/2026",
+     "dia": "Martes",
+     "tipo": "VELOCIDAD",
+     "sesion": "15' cal + 4 x 400 m a ritmo objetivo (rec 3', COMODO, sin ir a fondo) + 10' suave — ~5.2 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": "PIERNAS LIGERO — POTENCIA. Mover peso moderado RAPIDO, no hipertrofia ni fuerza maxima. A) 3 x 5 saltos a cajon 30-40 cm (subir saltando, BAJAR CAMINANDO). Descanso 1-2 min. B) 3 x 5 sentadillas al 60% (~60 kg): bajar controlado, SUBIR EXPLOSIVO; si la barra se pone lenta, corta la serie. Descanso 2-3 min. NO ir al fallo — el pesado es el viernes. [Semana de absorcion: hacer solo A, o A+B con 2 series en vez de 3.]",
+     "nota_plan": "Afilado: se mantiene el estimulo, se baja el volumen. NO ir a fondo. Si termina sintiendo que podia hacer 4 mas, esta bien hecha.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-10",
+     "guia": {
+      "objetivo": "Velocidad pura. Correr al ritmo objetivo real en dosis corta, con recuperación COMPLETA.",
+      "pasos": [
+       "Entrada en calor 15 min EN BLOQUES CORTOS (trote 3-4 min, caminás un poco, retomás).",
+       "4 × 400 m al ritmo indicado.",
+       "Recuperación COMPLETA entre reps: esperá a estar recuperado de verdad.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [
+       "200 m → 48-52 s",
+       "300 m → 1:13-1:18",
+       "400 m → 1:37-1:48"
+      ],
+      "criterio": "La ÚLTIMA igual o más rápida que la primera. Si la última sale más lenta, saliste demasiado fuerte.",
+      "avisos": [
+       "NO es una sesión de resistencia ni de acumular fatiga. Si terminás sintiendo que podías hacer 3 más, está bien hecha.",
+       "RESPETAR la recuperación completa. Con recuperación corta esto deja de entrenar velocidad y pasa a entrenar tolerancia al lactato, que es otro estímulo y tiene su lugar más adelante (20/10)."
+      ]
+     }
+    },
+    {
+     "fecha": "11/11/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "5 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-11",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "12/11/2026",
+     "dia": "Jueves",
+     "tipo": "VELOCIDAD",
+     "sesion": "15' cal + 6 x 200 m rapidos (rec 2:30) + 10' suave — ~5.1 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Mantenimiento neuromuscular. Rapido pero corto, sin acumular fatiga.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-12",
+     "guia": {
+      "objetivo": "Velocidad pura. Correr al ritmo objetivo real en dosis corta, con recuperación COMPLETA.",
+      "pasos": [
+       "Entrada en calor 15 min EN BLOQUES CORTOS (trote 3-4 min, caminás un poco, retomás).",
+       "6 × 200 m al ritmo indicado.",
+       "Recuperación COMPLETA entre reps: esperá a estar recuperado de verdad.",
+       "Vuelta a la calma 10 min suave."
+      ],
+      "ritmos": [
+       "200 m → 48-52 s",
+       "300 m → 1:13-1:18",
+       "400 m → 1:37-1:48"
+      ],
+      "criterio": "La ÚLTIMA igual o más rápida que la primera. Si la última sale más lenta, saliste demasiado fuerte.",
+      "avisos": [
+       "NO es una sesión de resistencia ni de acumular fatiga. Si terminás sintiendo que podías hacer 3 más, está bien hecha.",
+       "RESPETAR la recuperación completa. Con recuperación corta esto deja de entrenar velocidad y pasa a entrenar tolerancia al lactato, que es otro estímulo y tiene su lugar más adelante (20/10)."
+      ]
+     }
+    },
+    {
+     "fecha": "13/11/2026",
+     "dia": "Viernes",
+     "tipo": "Fácil",
+     "sesion": "3 km muy suave",
+     "sesion_pm": null,
+     "gym": "Piernas PESADO — ULTIMA sesion pesada del plan",
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-13",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    },
+    {
+     "fecha": "14/11/2026",
+     "dia": "Sábado",
+     "tipo": "Fácil",
+     "sesion": "7 km fácil",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Ya no hay tirada larga: se acorta a proposito.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-14",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": []
+     }
+    },
+    {
+     "fecha": "15/11/2026",
+     "dia": "Domingo",
+     "tipo": "Fácil",
+     "sesion": "5 km fácil + 4 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-15",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 4 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "numero": 18,
+   "fase": "DESCARGA Y CARRERA",
+   "volumen": "~16 km",
+   "rango": "16/11 al 21/11/2026",
+   "dias": [
+    {
+     "fecha": "16/11/2026",
+     "dia": "Lunes",
+     "tipo": "Fácil",
+     "sesion": "6 km fácil + 4 rectas",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-16",
+     "guia": {
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura).",
+       "AL FINAL: 4 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+      ]
+     }
+    },
+    {
+     "fecha": "17/11/2026",
+     "dia": "Martes",
+     "tipo": "ACTIVACIÓN",
+     "sesion": "10' cal + 3 x 300 m a ritmo objetivo (rec 3') + 10' suave — ~3.7 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": "SIN gym de piernas esta semana",
+     "nota_plan": "Activacion, no entrenamiento. El objetivo es recordarle a las piernas el ritmo, no generar adaptacion.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-17",
+     "guia": {
+      "objetivo": "Activación, no entrenamiento. Recordarle a las piernas el ritmo, sin generar fatiga.",
+      "pasos": [
+       "Calentamiento 10 min suave.",
+       "Las repeticiones de la fila, cómodas.",
+       "5-10 min suave."
+      ],
+      "ritmos": [],
+      "criterio": "Terminar fresco. Si dudás, hacé menos.",
+      "avisos": [
+       "Semana de carrera: no se prueba nada nuevo, no se agrega nada."
+      ]
+     }
+    },
+    {
+     "fecha": "18/11/2026",
+     "dia": "Miércoles",
+     "tipo": "Fácil",
+     "sesion": "4 km muy suave",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-18",
+     "guia": {
+      "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
+      "pasos": [
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Cadencia 175-180 (es la palanca para la cintura)."
+      ],
+      "ritmos": [
+       "Ritmo: 7:30-8:00/km",
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+      ],
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Si dudás entre correr más o menos, corré menos."
+      ]
+     }
+    },
+    {
+     "fecha": "19/11/2026",
+     "dia": "Jueves",
+     "tipo": "ACTIVACIÓN",
+     "sesion": "10' cal + 4 rectas + 5' suave — ~2.2 km (recalculado 25/08 con ritmos medidos)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Ultimo movimiento con algo de velocidad. Corto.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-19",
+     "guia": {
+      "objetivo": "Activación, no entrenamiento. Recordarle a las piernas el ritmo, sin generar fatiga.",
+      "pasos": [
+       "Calentamiento 10 min suave.",
+       "Las repeticiones de la fila, cómodas.",
+       "5-10 min suave."
+      ],
+      "ritmos": [],
+      "criterio": "Terminar fresco. Si dudás, hacé menos.",
+      "avisos": [
+       "Semana de carrera: no se prueba nada nuevo, no se agrega nada."
+      ]
+     }
+    },
+    {
+     "fecha": "20/11/2026",
+     "dia": "Viernes",
+     "tipo": "Descanso",
+     "sesion": "Descanso total",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "Nada. Ni trote suave ni gym. La ansiedad de este dia esta anticipada en la seccion 16 del .md — no probar nada.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-20",
+     "guia": {
+      "objetivo": "Descanso total.",
+      "pasos": [
+       "Nada. Ni trote suave ni gimnasio."
+      ],
+      "ritmos": [],
+      "criterio": "",
+      "avisos": [
+       "La ansiedad de este día está anticipada. No probar nada."
+      ]
+     }
+    },
+    {
+     "fecha": "21/11/2026",
+     "dia": "Sábado",
+     "tipo": "CARRERA",
+     "sesion": "MILLA URBANA NEW BALANCE — 1609 m en calle (Av. 9 de Julio)",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": "ESTRATEGIA (seccion 9 del .md): correr por ESFUERZO constante, no por ritmo constante — es calle con pendiente leve. NO salir rapido porque las piernas estan frescas: ese fue el error del 15/08 y costo 30 seg. El TERCER cuarto es donde se pierde la marca. Ritmo de salida: el que confirme el test del 07/11, NO el que dicten las piernas en los primeros 200 m.",
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-21",
+     "guia": {
+      "objetivo": "La carrera. 1609 m en calle, Av. 9 de Julio, con pendiente leve.",
+      "pasos": [
+       "Entrada en calor 15 min EN BLOQUES CORTOS (nunca 15 continuos) + 4 rectas progresivas.",
+       "Terminar el calentamiento 10-12 min antes de la largada.",
+       "Salida: al ritmo que confirme el test del 07/11. NO al que pidan las piernas.",
+       "Correr por ESFUERZO constante, no por ritmo constante: aflojá levemente en la subida y recuperá en el llano.",
+       "Tercer cuarto: es donde se pierde la marca. Ahí trabaja la cabeza.",
+       "No parar el reloj hasta 30 s después de cruzar."
+      ],
+      "ritmos": [],
+      "criterio": "Parciales parejos o negative split.",
+      "avisos": [
+       "El error nº1 es salir rápido porque las piernas están frescas. Pasó el 15/08 y costó 30 segundos."
+      ]
+     }
+    },
+    {
+     "fecha": "22/11/2026",
+     "dia": "Domingo",
+     "tipo": "Descanso",
+     "sesion": "Descanso",
+     "sesion_pm": null,
+     "gym": null,
+     "nota_plan": null,
+     "hecho": null,
+     "tiempo": null,
+     "km": null,
+     "ritmo": null,
+     "fc_media": null,
+     "fc_max": null,
+     "peso": null,
+     "notas": null,
+     "fecha_iso": "2026-11-22",
+     "guia": {
+      "objetivo": "Descanso total.",
+      "pasos": [
+       "Nada. Ni trote suave ni gimnasio."
+      ],
+      "ritmos": [],
+      "criterio": "",
+      "avisos": [
+       "La ansiedad de este día está anticipada. No probar nada."
+      ]
+     }
+    }
+   ]
+  }
+ ]
+}
