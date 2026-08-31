@@ -4,17 +4,19 @@
   "carrera": "Milla Urbana New Balance — Buenos Aires",
   "fecha_carrera": "2026-11-21",
   "lugar": "Av. 9 de Julio (calle, pendiente leve)",
-  "generado": "2026-08-30",
+  "generado": "2026-08-31",
   "referencias": {
    "FC máxima real": "198 ppm (test 23/07)",
    "Umbral": "FC 166-174 · ritmo 6:50/km",
    "Trote fácil": "7:30-8:00/km · techo FC 160-163",
+   "Trote fácil (solo corriendo, 31/08)": "7:19/km a FC 154",
    "Piso de velocidad": "8:00-8:15/km (no puede correr más lento)",
    "400 m máximo": "1:50 (replicado 23/07 y 15/08)",
    "200 m medido": "46.6-50.5 s (27/08)",
+   "100 m medido": "18.4-22.8 s (31/08)",
    "Milla actual": "8:56 (15/08)",
    "Milla histórica": "7:20 (año pasado)",
-   "Cadencia objetivo": "175-180 spm"
+   "Cadencia objetivo": "175-180 spm (trote real: 166-170)"
   },
   "tests": [
    {
@@ -62,8 +64,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -96,9 +98,7 @@
        "Alternar los bloques de trote y caminata según la fila.",
        "Cadencia 175-180 en los tramos de trote."
       ],
-      "ritmos": [
-       "Trote: cómodo, sin buscar ritmo."
-      ],
+      "ritmos": [],
       "criterio": "Terminar pudiendo hacer un bloque más.",
       "avisos": []
      }
@@ -214,9 +214,7 @@
        "Alternar los bloques de trote y caminata según la fila.",
        "Cadencia 175-180 en los tramos de trote."
       ],
-      "ritmos": [
-       "Trote: cómodo, sin buscar ritmo."
-      ],
+      "ritmos": [],
       "criterio": "Terminar pudiendo hacer un bloque más.",
       "avisos": []
      }
@@ -281,9 +279,7 @@
        "Alternar los bloques de trote y caminata según la fila.",
        "Cadencia 175-180 en los tramos de trote."
       ],
-      "ritmos": [
-       "Trote: cómodo, sin buscar ritmo."
-      ],
+      "ritmos": [],
       "criterio": "Terminar pudiendo hacer un bloque más.",
       "avisos": []
      }
@@ -311,9 +307,7 @@
        "Alternar los bloques de trote y caminata según la fila.",
        "Cadencia 175-180 en los tramos de trote."
       ],
-      "ritmos": [
-       "Trote: cómodo, sin buscar ritmo."
-      ],
+      "ritmos": [],
       "criterio": "Terminar pudiendo hacer un bloque más.",
       "avisos": []
      }
@@ -368,9 +362,7 @@
        "Alternar los bloques de trote y caminata según la fila.",
        "Cadencia 175-180 en los tramos de trote."
       ],
-      "ritmos": [
-       "Trote: cómodo, sin buscar ritmo."
-      ],
+      "ritmos": [],
       "criterio": "Terminar pudiendo hacer un bloque más.",
       "avisos": []
      }
@@ -426,9 +418,7 @@
        "Alternar los bloques de trote y caminata según la fila.",
        "Cadencia 175-180 en los tramos de trote."
       ],
-      "ritmos": [
-       "Trote: cómodo, sin buscar ritmo."
-      ],
+      "ritmos": [],
       "criterio": "Terminar pudiendo hacer un bloque más.",
       "avisos": []
      }
@@ -493,9 +483,7 @@
        "Alternar los bloques de trote y caminata según la fila.",
        "Cadencia 175-180 en los tramos de trote."
       ],
-      "ritmos": [
-       "Trote: cómodo, sin buscar ritmo."
-      ],
+      "ritmos": [],
       "criterio": "Terminar pudiendo hacer un bloque más.",
       "avisos": []
      }
@@ -523,9 +511,7 @@
        "Alternar los bloques de trote y caminata según la fila.",
        "Cadencia 175-180 en los tramos de trote."
       ],
-      "ritmos": [
-       "Trote: cómodo, sin buscar ritmo."
-      ],
+      "ritmos": [],
       "criterio": "Terminar pudiendo hacer un bloque más.",
       "avisos": []
      }
@@ -580,9 +566,7 @@
        "Alternar los bloques de trote y caminata según la fila.",
        "Cadencia 175-180 en los tramos de trote."
       ],
-      "ritmos": [
-       "Trote: cómodo, sin buscar ritmo."
-      ],
+      "ritmos": [],
       "criterio": "Terminar pudiendo hacer un bloque más.",
       "avisos": []
      }
@@ -638,9 +622,7 @@
        "Alternar los bloques de trote y caminata según la fila.",
        "Cadencia 175-180 en los tramos de trote."
       ],
-      "ritmos": [
-       "Trote: cómodo, sin buscar ritmo."
-      ],
+      "ritmos": [],
       "criterio": "Terminar pudiendo hacer un bloque más.",
       "avisos": []
      }
@@ -665,8 +647,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -706,8 +688,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -716,7 +698,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -772,8 +755,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -803,8 +786,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -813,7 +796,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -837,8 +821,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -903,8 +887,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -942,8 +926,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -952,7 +936,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -1008,8 +993,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -1039,8 +1024,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -1099,8 +1084,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 8 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -1109,7 +1094,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -1133,8 +1119,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -1172,8 +1158,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -1235,8 +1221,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -1303,8 +1289,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -1324,20 +1310,20 @@
      "sesion_pm": null,
      "gym": null,
      "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
-     "hecho": null,
+     "hecho": "No (tenis 1 h)",
      "tiempo": null,
      "km": null,
      "ritmo": null,
      "fc_media": null,
      "fc_max": null,
      "peso": null,
-     "notas": null,
+     "notas": "No se corrio la tirada larga de 12 km: jugo 1 h de tenis y no quedo tiempo. El tenis es carga real (aerobica + trabajo lateral de gluteo/aductor) pero NO cuenta como volumen de carrera. Segunda sesion facil perdida de la semana (la primera fue el 26/08 por lluvia). Ver seccion 54 del .md.",
      "fecha_iso": "2026-08-29",
      "guia": {
       "objetivo": "La sesión aeróbica más importante de la semana. Construye la base que sostiene las sesiones de calidad.",
       "pasos": [
        "Continuo, a ritmo cómodo.",
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
        "Cadencia 175-180."
       ],
       "ritmos": [
@@ -1345,7 +1331,9 @@
        "FC: techo de referencia 160-163 (límite, no objetivo). Gobierna el talk test."
       ],
       "criterio": "Poder decir una frase entera en voz alta durante toda la sesión.",
-      "avisos": []
+      "avisos": [
+       "Es la sesión que más se está perdiendo (29/08). Si el día se complica, esta es la que se protege, no la que se saca."
+      ]
      }
     },
     {
@@ -1356,20 +1344,20 @@
      "sesion_pm": null,
      "gym": null,
      "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
-     "hecho": null,
+     "hecho": "Si (sin datos: el reloj se quedo sin bateria)",
      "tiempo": null,
      "km": null,
      "ritmo": null,
      "fc_media": null,
      "fc_max": null,
      "peso": null,
-     "notas": null,
+     "notas": "Corrio la sesion pero el reloj se quedo sin bateria y no guardo el archivo. NO se carga km estimado en la columna 10: la planilla solo lleva dato medido (regla seccion 12). Se estima ~8 km para el cierre de volumen semanal, marcado como estimacion en el .md, no como dato.",
      "fecha_iso": "2026-08-30",
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -1378,7 +1366,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     }
@@ -1398,20 +1387,20 @@
      "sesion_pm": null,
      "gym": null,
      "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
-     "hecho": null,
-     "tiempo": null,
-     "km": null,
-     "ritmo": null,
-     "fc_media": null,
-     "fc_max": null,
+     "hecho": "Si (completa: 8 km + 6 rectas)",
+     "tiempo": "1:12:26",
+     "km": 9.22,
+     "ritmo": "7:51/km",
+     "fc_media": 152,
+     "fc_max": 176,
      "peso": null,
-     "notas": null,
+     "notas": "9.22 km en 1:12:26. Bloque facil: 8.00 km en 1:01:57 (7:45/km), FC media 152, max 165. SOLO CORRIENDO (sin las pausas caminadas): 7.45 km a 7:19/km con FC media 154 — ritmo mas rapido que la banda de referencia 7:30-8:00 con FC dentro de banda. Senal de economia favorable (dato aislado, seccion 31). CONTRAPARTIDA: se fragmento mas que el 24/08 — bloque continuo maximo 17:28 (2.45 km) vs 25:07 (3.29 km) del 24/08, y 10:16 caminando (16.6% del tiempo). Compro ritmo con pausas, y en dia facil el ritmo no es objetivo. 6 RECTAS de 100 m: 22.3 / 22.8 / 22.8 / 20.5 / 18.4 / 18.4 seg (3:43 a 3:04/km). Las dos ultimas las mas rapidas: criterio cumplido. Las rectas 4-6 salieron mas rapido que lo prescrito (3:30-4:00/km) — FC solo 164-172, costo bajo, pero es sprint casi maximo a 4 dias de estrenar pliometria: a vigilar, no a corregir todavia. CADENCIA: 166-170 spm en el trote facil (por debajo del objetivo 175-180 de la seccion 4) contra 179-195 spm en las rectas. Confirma que el deficit de cadencia en trote NO es una limitacion fisica. CLIMA: el reloj marco 26-30C pero la estacion meteorologica dio 19.4C y 71% de humedad — el sensor de muneca lee ~7C de mas. No fue una sesion calurosa. Ver seccion 54 del .md.",
      "fecha_iso": "2026-08-31",
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -1420,7 +1409,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -1476,8 +1466,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -1544,8 +1534,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -1560,11 +1550,11 @@
     {
      "fecha": "05/09/2026",
      "dia": "Sábado",
-     "tipo": "TIRADA LARGA",
-     "sesion": "13 km fácil",
+     "tipo": "Fácil",
+     "sesion": "8 km fácil + 6 rectas",
      "sesion_pm": null,
      "gym": null,
-     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180.",
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md). [CAMBIO 31/08: se INTERCAMBIAN sabado y domingo de esta semana. Motivo: el 29/08 se perdio la tirada larga porque el sabado hubo tenis. La tirada larga es el bloque aerobico mas grande de la semana y es lo unico que se esta perdiendo (las 3 sesiones de calidad se cumplieron todas). Se la mueve al domingo, que viene cumpliendose. DISPARADOR: si el sabado queda libre, vuelve a su lugar; si el tenis del sabado es fijo, el cambio se hace permanente para el resto del plan. Ver seccion 54 del .md.]",
      "hecho": null,
      "tiempo": null,
      "km": null,
@@ -1575,28 +1565,31 @@
      "notas": null,
      "fecha_iso": "2026-09-05",
      "guia": {
-      "objetivo": "La sesión aeróbica más importante de la semana. Construye la base que sostiene las sesiones de calidad.",
+      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo, a ritmo cómodo.",
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
+       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
-       "FC: techo de referencia 160-163 (límite, no objetivo). Gobierna el talk test."
+       "FC: techo 160-163 (límite, NO objetivo a buscar)."
       ],
-      "criterio": "Poder decir una frase entera en voz alta durante toda la sesión.",
-      "avisos": []
+      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "avisos": [
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
+      ]
      }
     },
     {
      "fecha": "06/09/2026",
      "dia": "Domingo",
-     "tipo": "Fácil",
-     "sesion": "8 km fácil + 6 rectas",
+     "tipo": "TIRADA LARGA",
+     "sesion": "13 km fácil",
      "sesion_pm": null,
      "gym": null,
-     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. Las rectas NO son negociables: son el estimulo de potencia de bajo costo (ver seccion 45 del .md).",
+     "nota_plan": "Ejecutar CONTINUO: sin cortes FIJOS por tiempo ni por FC 150. Pausas breves permitidas si el cuerpo lo pide. Techo de referencia FC ~160-163 (limite, no objetivo), gobierna el talk test. Cadencia 175-180. [CAMBIO 31/08: se INTERCAMBIAN sabado y domingo de esta semana. Motivo: el 29/08 se perdio la tirada larga porque el sabado hubo tenis. La tirada larga es el bloque aerobico mas grande de la semana y es lo unico que se esta perdiendo (las 3 sesiones de calidad se cumplieron todas). Se la mueve al domingo, que viene cumpliendose. DISPARADOR: si el sabado queda libre, vuelve a su lugar; si el tenis del sabado es fijo, el cambio se hace permanente para el resto del plan. Ver seccion 54 del .md.]",
      "hecho": null,
      "tiempo": null,
      "km": null,
@@ -1607,19 +1600,19 @@
      "notas": null,
      "fecha_iso": "2026-09-06",
      "guia": {
-      "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
+      "objetivo": "La sesión aeróbica más importante de la semana. Construye la base que sostiene las sesiones de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
-       "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
+       "Continuo, a ritmo cómodo.",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
-       "FC: techo 160-163 (límite, NO objetivo a buscar)."
+       "FC: techo de referencia 160-163 (límite, no objetivo). Gobierna el talk test."
       ],
-      "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
+      "criterio": "Poder decir una frase entera en voz alta durante toda la sesión.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Es la sesión que más se está perdiendo (29/08). Si el día se complica, esta es la que se protege, no la que se saca."
       ]
      }
     }
@@ -1651,8 +1644,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -1661,7 +1654,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -1717,8 +1711,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -1785,8 +1779,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -1851,8 +1845,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -1890,8 +1884,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -1953,8 +1947,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -2021,8 +2015,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -2054,8 +2048,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -2085,8 +2079,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -2095,7 +2089,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     }
@@ -2127,8 +2122,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -2137,7 +2132,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -2193,8 +2189,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -2261,8 +2257,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -2295,7 +2291,7 @@
       "objetivo": "La sesión aeróbica más importante de la semana. Construye la base que sostiene las sesiones de calidad.",
       "pasos": [
        "Continuo, a ritmo cómodo.",
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
        "Cadencia 175-180."
       ],
       "ritmos": [
@@ -2303,7 +2299,9 @@
        "FC: techo de referencia 160-163 (límite, no objetivo). Gobierna el talk test."
       ],
       "criterio": "Poder decir una frase entera en voz alta durante toda la sesión.",
-      "avisos": []
+      "avisos": [
+       "Es la sesión que más se está perdiendo (29/08). Si el día se complica, esta es la que se protege, no la que se saca."
+      ]
      }
     },
     {
@@ -2326,8 +2324,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -2336,7 +2334,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     }
@@ -2368,8 +2367,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -2378,7 +2377,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -2434,8 +2434,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -2502,8 +2502,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -2536,7 +2536,7 @@
       "objetivo": "La sesión aeróbica más importante de la semana. Construye la base que sostiene las sesiones de calidad.",
       "pasos": [
        "Continuo, a ritmo cómodo.",
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
        "Cadencia 175-180."
       ],
       "ritmos": [
@@ -2544,7 +2544,9 @@
        "FC: techo de referencia 160-163 (límite, no objetivo). Gobierna el talk test."
       ],
       "criterio": "Poder decir una frase entera en voz alta durante toda la sesión.",
-      "avisos": []
+      "avisos": [
+       "Es la sesión que más se está perdiendo (29/08). Si el día se complica, esta es la que se protege, no la que se saca."
+      ]
      }
     },
     {
@@ -2567,8 +2569,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -2606,8 +2608,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -2616,7 +2618,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -2672,8 +2675,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -2740,8 +2743,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -2806,8 +2809,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -2845,8 +2848,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -2908,8 +2911,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -2976,8 +2979,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -3009,8 +3012,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -3040,8 +3043,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -3050,7 +3053,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     }
@@ -3082,8 +3086,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -3092,7 +3096,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -3156,8 +3161,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -3219,8 +3224,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -3253,7 +3258,7 @@
       "objetivo": "La sesión aeróbica más importante de la semana. Construye la base que sostiene las sesiones de calidad.",
       "pasos": [
        "Continuo, a ritmo cómodo.",
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
        "Cadencia 175-180."
       ],
       "ritmos": [
@@ -3261,7 +3266,9 @@
        "FC: techo de referencia 160-163 (límite, no objetivo). Gobierna el talk test."
       ],
       "criterio": "Poder decir una frase entera en voz alta durante toda la sesión.",
-      "avisos": []
+      "avisos": [
+       "Es la sesión que más se está perdiendo (29/08). Si el día se complica, esta es la que se protege, no la que se saca."
+      ]
      }
     },
     {
@@ -3284,8 +3291,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -3323,8 +3330,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -3333,7 +3340,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -3394,8 +3402,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -3462,8 +3470,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -3496,7 +3504,7 @@
       "objetivo": "La sesión aeróbica más importante de la semana. Construye la base que sostiene las sesiones de calidad.",
       "pasos": [
        "Continuo, a ritmo cómodo.",
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
        "Cadencia 175-180."
       ],
       "ritmos": [
@@ -3504,7 +3512,9 @@
        "FC: techo de referencia 160-163 (límite, no objetivo). Gobierna el talk test."
       ],
       "criterio": "Poder decir una frase entera en voz alta durante toda la sesión.",
-      "avisos": []
+      "avisos": [
+       "Es la sesión que más se está perdiendo (29/08). Si el día se complica, esta es la que se protege, no la que se saca."
+      ]
      }
     },
     {
@@ -3527,8 +3537,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -3566,8 +3576,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -3576,7 +3586,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -3637,8 +3648,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -3668,8 +3679,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -3678,7 +3689,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -3702,8 +3714,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -3768,8 +3780,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -3807,8 +3819,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 6 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -3817,7 +3829,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -3878,8 +3891,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -3946,8 +3959,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -3979,8 +3992,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
@@ -4010,8 +4023,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 4 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -4020,7 +4033,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     }
@@ -4052,8 +4066,8 @@
      "guia": {
       "objetivo": "Volumen aeróbico a intensidad controlada. Es lo que permite absorber y recuperarse de los días de calidad.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura).",
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad.",
        "AL FINAL: 4 rectas de ~100 m a 3:30-4:00/km, con ~60 s de caminata entre cada una. No a fondo."
       ],
       "ritmos": [
@@ -4062,7 +4076,8 @@
       ],
       "criterio": "Talk test: podés decir una frase completa. Ese es el gobernador, no el número de FC.",
       "avisos": [
-       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan."
+       "Las rectas NO son negociables: son el estímulo de potencia de bajo costo del plan.",
+       "A 3:30-4:00/km, NO a fondo. El 31/08 las tres últimas salieron a 3:04-3:25 — más rápido de lo pedido. No hizo daño, pero son sprints casi máximos con pliometría recién estrenada."
       ]
      }
     },
@@ -4117,8 +4132,8 @@
      "guia": {
       "objetivo": "Día deliberadamente liviano. Su función es que mañana rindas, no sumar kilómetros.",
       "pasos": [
-       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas.",
-       "Cadencia 175-180 (es la palanca para la cintura)."
+       "Continuo. Podés parar si el cuerpo lo pide — lo que se eliminó fue el corte FIJO por reloj o por FC, no las pausas. Si dudás entre ir más rápido o cortar menos: cortá menos (sección 54).",
+       "Cadencia 175-180 (es la palanca para la cintura). Medido 31/08: en trote vas en 166-170 y en las rectas llegás a 190 sin esfuerzo — la brecha es de hábito, no de capacidad."
       ],
       "ritmos": [
        "Ritmo: 7:30-8:00/km",
